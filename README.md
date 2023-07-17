@@ -1,4 +1,4 @@
-👋 Hi, I’m Rongzhou CHEN (@lachlanchen on GitHub)
+👋 Hi, I’m Lachlan CHEN (@lachlanchen on GitHub)
 
 👀 I’m interested in advancing healthcare through technology. My passion lies in cell imaging, detection, segmentation, and profiling, and harnessing these for early cancer detection and diagnosis.
 
