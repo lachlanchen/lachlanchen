@@ -38,6 +38,6 @@ I find that moving between technical precision and creative flow keeps both side
 ## 📫 Let's Connect
 
 - Email: [lach@lazying_or_onlyideas.art]
-- LinkedIn: [linkedin.com/in/lachlanchen](https://linkedin.com/in/lachlanchen)
+- LinkedIn: [[linkedin.com/in/lachlanchen](https://linkedin.com/in/lachlanchen)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
 
 *"Sometimes the most productive thing you can do is nothing at all."*
