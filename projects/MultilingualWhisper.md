@@ -2,16 +2,23 @@
 
 Local path: /home/lachlan/ProjectsLFS/whisper_with_lang_detect
 
-Subtitle generation built on OpenAI Whisper with precise per‑segment language detection and timestamp refinement. Ideal for videos with multiple languages.
+Problem
+- Whisper’s built‑in language detection is coarse for mixed‑language media; multi‑lingual videos need per‑segment tagging and refined timestamps for clean subtitles.
 
-## Features
-- Silero VAD → Whisper pipeline
-- Fine‑grained language tags (Lingua + Whisper)
-- Intelligent segment refinement (punctuation splits, merges, gap/overlap fixes)
-- Outputs SRT + JSON with language labels
-- Robust FFmpeg handling for diverse inputs
+Solution
+- VAD → Whisper pipeline augmented with Lingua for per‑segment (even word‑level) language tags. Post‑processing refines timestamps (split/merge, gap/overlap fixes). Outputs `.srt` and rich `.json` with tags.
 
-## Usage
+Impact
+- Accurate multilingual subtitles enable better UX and downstream styling/filtering by language; critical for learning content and global media distribution.
+
+Features
+- Silero VAD → Whisper chunking
+- Fine‑grained language IDs (Lingua + Whisper)
+- Timestamp cleanup and segment refinement
+- FFmpeg extraction/repair/normalization
+- Outputs: `.srt` + `.json` with `start/end/lang/text/words`
+
+CLI
 ```
 python vad_lang_subtitle.py \
   --video-path path/to/video.mp4 \
@@ -20,9 +27,8 @@ python vad_lang_subtitle.py \
 ```
 Artifacts: `.wav`, `.srt`, `.json`
 
-## Links
-- Repo: `git@github.com:lachlanchen/MultilingualWhisper.git`
+Repo
+- `git@github.com:lachlanchen/MultilingualWhisper.git`
 
-## License
+License
 - MIT
-

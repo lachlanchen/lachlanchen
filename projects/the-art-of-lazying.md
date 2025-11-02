@@ -2,7 +2,14 @@
 
 Local path: /home/lachlan/Projects/the-art-of-lazying/
 
-Strategic laziness for a simpler, more productive, and more meaningful life. This umbrella repo brings together agents, language learning, automation, and vlogs — all aligned to reduce needless work and amplify what matters.
+Problem
+- Modern workflows optimize for busyness, not meaning; creators and learners drown in overhead.
+
+Solution
+- An umbrella of agents, automation, and learning tools (and a book) that reduce needless work and cultivate “strategic rest,” channeling energy to what matters.
+
+Impact
+- Practical systems (subtitles, captions, publication) and cultural framing (LazyingArt) that help people ship more with less stress.
 
 ## Themes
 - Community and experiments in strategic rest (LazyingArt)
@@ -21,4 +28,3 @@ Strategic laziness for a simpler, more productive, and more meaningful life. Thi
 ## Links
 - Repo: `git@github.com:lachlanchen/the-art-of-lazying.git`
 - Site: https://lazying.art
-

@@ -2,29 +2,33 @@
 
 Local path: /home/lachlan/Projects/WordsOrigin
 
-Analyze the origin of words and visualize etymological relationships as graphs. Includes an interactive Tornado web app and a collection of Jupyter notebooks for exploration.
+Problem
+- Etymology resources are fragmented and non‑visual; learners benefit from seeing how words relate across time, families, and morphology.
 
-## Features
-- Word etymology analysis with caching
-- Graph construction and rendering to images
-- REST endpoints to generate and serve etymology graphs
-- Exploration notebooks (OpenAI‑assisted parsing variants, graph iterations)
+Solution
+- Analyze a word’s etymology, persist normalized JSON, and render a graph image of roots, derivations, and relations. A small Tornado API serves both JSON and PNG; notebooks explore algorithms for parsing and layout.
 
-## Key Components
-- `app.py` — Tornado server with handlers for `/word/<term>` (JSON + image)
-- `word_etymology_analyzer.py` — analysis pipeline with caching
-- `etymology_graph.py` — graph builder and plotter
-- `images/`, `jsons/` — output artifacts
-- `etymology_*.ipynb` — research and prototyping notebooks
+Impact
+- Makes histories of words visible and explorable; a foundation for language learning tools (e.g., word cards) and comparative linguistics.
 
-## Usage (indicative)
+Features
+- Analyzer with on‑disk cache (`jsons/`), plotting to `images/`
+- API to generate on demand and return Base64 or file
+- Notebooks iterating on structure extraction and visualization
+
+Key Components
+- `app.py` — Tornado server; `/word/etymology` endpoints
+- `word_etymology_analyzer.py` — fetch/normalize etymology to JSON
+- `etymology_graph.py` — build and plot network
+- `images/`, `jsons/` — outputs and caches
+- `etymology_*.ipynb` — prototypes and research
+
+Usage
 - Python 3.9+
-- `pip install -r requirements.txt` (if present) or create an environment with Tornado + plotting libs
-- `python app.py` then query the API or open the simple UI in `templates/`
+- `python app.py` then query `/word/<term>`
 
-## Links
+Links
 - Repo: `git://sb2/etymology.git` (local remote)
 
-## License
+License
 - See repository
-

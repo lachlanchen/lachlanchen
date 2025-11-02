@@ -2,24 +2,30 @@
 
 Local path: /home/lachlan/ProjectsLFS/image_captioning
 
-Image/video captioning using OpenAI CLIP embeddings with a GPT‑2 decoder. This folder includes the `clip-gpt-captioning` implementation and surrounding scripts for video workflows.
+Problem
+- Need high‑quality image captions and embeddings for search/metadata; desire to leverage CLIP semantics with a text decoder.
 
-## Features
-- CLIP feature extraction + GPT‑2 text generation
-- Example training configs (Flickr30k)
-- Utilities for image/video prediction
+Solution
+- Use CLIP visual encoder + GPT‑2 decoder with a mapping module (ClipCap‑style). Included `clip-gpt-captioning` project provides training/inference on Flickr30k and utilities for prediction.
 
-## Usage (upstream `clip-gpt-captioning`)
-- Create venv and install `requirements.txt`
-- Run prediction: `python src/predict.py -I <image> -S <S|L> -C <checkpoint>`
+Impact
+- Fast, decent image captions for tagging, previews, and as inputs to downstream video pipelines (and complements ViT‑GPT2 video captioning).
 
-## Notes
-- For time‑aligned video captions, see `VideoCaptionerWithVit` (ViT‑GPT2) which handles key‑frames and SRT/JSON output.
+Features
+- CLIP feature extraction + GPT‑2 generation
+- Small/Large checkpoints; mapping via Transformer layers
+- Prediction utilities for single images
 
-## Links
+Usage (upstream `clip-gpt-captioning`)
+- Create venv; `pip install -r requirements.txt`
+- Predict: `python src/predict.py -I <image> -S <S|L> -C <checkpoint>`
+
+Notes
+- For time‑aligned video SRT/JSON, prefer `VideoCaptionerWithVit`.
+
+Links
 - Upstream: https://github.com/jmisilo/clip-gpt-captioning
-- Related: `VideoCaptionerWithVit` in this folder
+- Related: `VideoCaptionerWithVit`
 
-## License
+License
 - See upstream repository
-

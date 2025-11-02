@@ -13,4 +13,9 @@ Comprehensive notes for symlinked projects in this repo:
 - VideoCaptionerWithClip — projects/VideoCaptionerWithClip.md
 - VideoCaptionerWithVit — projects/VideoCaptionerWithVit.md
 - WordsOrigin — projects/WordsOrigin.md
-
+ - MicroQuant — projects/MicroQuant.md
+ - QuantitativeTrading — projects/QuantitativeTrading.md
+ - LightMind — projects/LightMind.md
+ - LightMindWebsite — projects/LightMindWebsite.md
+ - LazyingArtWebsite — projects/LazyingArtWebsite.md
+ - CV — projects/CV.md

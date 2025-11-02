@@ -2,32 +2,40 @@
 
 Local path: /home/lachlan/ProjectsLFS/auto-publish
 
-Automates publishing of processed videos to multiple platforms (XiaoHongShu, Bilibili, Douyin, ShiPinHao, YouTube). Designed to work with AutoPubMonitor and the wider LazyingArt pipeline.
+Problem
+- Publishing a single video to many Chinese and global platforms is error‑prone and time‑consuming: each site has distinct upload flows, cover rules, and forms.
 
-## Highlights
-- Selenium‑driven upload flows for multiple platforms
-- Reuse metadata (title, description, tags, cover)
-- Captcha helpers (2captcha/Turing) for login workflows
-- CSV logs for processed videos; caching support
+Solution
+- Selenium‑based automations for XiaoHongShu, Bilibili, Douyin, ShiPinHao, YouTube with resilient element targeting and fallbacks. Central orchestration scripts reuse metadata and covers, handle captcha services, and record processing logs.
 
-## Notable Files
-- `autopub.py`, `process_video.py` — core orchestration
-- `pub_xhs.py`, `pub_bilibili.py`, `pub_douyin.py`, `pub_shipinhao.py`, `pub_y2b.py` — per‑platform publishers
-- `login_*` scripts — session bootstrap helpers
-- `requirements.txt` — Selenium, Requests, FFmpeg tooling
+Impact
+- Cuts upload time per video from hours to minutes; improves consistency (titles/tags/cover) across platforms; enables reliable daily publication.
 
-## Prerequisites
-- Python 3.8+
-- Browser + matching WebDriver (e.g., Chrome/Chromedriver)
-- FFmpeg (for media handling)
+Components
+- Core: `autopub.py`, `process_video.py` (pipeline orchestration)
+- Publishers: `pub_xhs.py`, `pub_bilibili.py`, `pub_douyin.py`, `pub_shipinhao.py`, `pub_y2b.py`
+- Login helpers: `login_*` scripts; captcha solvers (`solve_captcha_*`)
+- Assets/logs: `logs/`, `videos/`, `videos_db.csv`, `processed.csv`
 
-## Usage (indicative)
-- `python autopub.py` or `python process_video.py` to publish a prepared video
-- Per‑platform flags in publisher scripts (see source)
+Notes on robustness
+- Explicit waits for clickable/visible elements
+- Cover upload/confirm sequences for sites with nested dialogs
+- Site‑specific quirks (position/location pickers, title length)
 
-## Relationship
-- Works with AutoPubMonitor (queueing, watching, sync) and LazyEdit (asset generation)
+Prerequisites
+- Python 3.8+, FFmpeg
+- Chrome/Chromedriver (or equivalent) aligned versions
 
-## License
+Usage
+- `python autopub.py` or `python process_video.py`
+- Select target publishers by script/flags; ensure sessions are logged in (cookies) or run login helpers
+
+Integration
+- Upstream in the pipeline: LazyEdit (assets, subtitles, cover)
+- Orchestrated by AutoPubMonitor (queueing, retries, sync)
+
+Security/Compliance
+- Environment guardians to avoid accidental posting; CAPTCHA solvers are opt‑in and can be disabled; stores minimal cookies/session where possible.
+
+License
 - See repository
-

@@ -2,7 +2,11 @@
 
 Local path: LightMindWebsite -> /home/lachlan/Projects/lightmind
 
-I’m the cofounder and COO of LightMind — an AI‑powered, privacy‑first memory enhancement wearable. LightMind combines neuromorphic optical encryption with multimodal AI to transform everyday moments into a searchable, personal memory graph.
+Problem
+- People routinely miss, forget, or mis‑prioritize vital details from daily conversations; existing “recall tech” often trades privacy for convenience.
+
+Solution
+- An AI‑powered, privacy‑first memory enhancement wearable. LightMind combines neuromorphic optical encryption with multimodal AI to transform everyday moments into a searchable, personal memory graph.
 
 ## Overview
 - Privacy by design: facial features are irreversibly encoded; raw images are not stored
@@ -29,4 +33,3 @@ I’m the cofounder and COO of LightMind — an AI‑powered, privacy‑first me
 ## Links
 - Site: https://lightmind.art
 - Contact: contact@lightmind.art
-

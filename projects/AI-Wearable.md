@@ -2,23 +2,24 @@
 
 Local path: /home/lachlan/Projects/omi/
 
-Open‑source AI wearable (“Omi”) that captures conversations, transcribes, summarizes, and turns them into action items. Integrates a mobile companion app and cloud services.
+Problem
+- Capturing and recalling key information from daily conversations remains manual; people miss details and action items.
 
-## Highlights
-- Real‑time on‑device capture and transcription
-- Meeting summaries and action items
+Solution (upstream)
+- Open‑source wearable (“Omi”) that records, transcribes, summarizes, and proposes actions; mobile app and cloud services for sync and control.
+
+Impact
+- Improves recall and follow‑through; a strong reference for LightMind’s direction on privacy‑first memory augmentation.
+
+Highlights
+- On‑device capture and transcription
+- Summaries and action items
 - Mobile app + cloud APIs
 
-## Architecture (upstream)
-- Hardware device + firmware
-- Mobile app (iOS/Android)
-- Cloud backend; integrations for sync and actions
-
-## Links
-- Upstream repo: `https://github.com/BasedHardware/Omi`
+Links
+- Upstream: `https://github.com/BasedHardware/Omi`
 - Local remote: `git@github.com:lachlanchen/AI-Wearable.git`
-- Site: https://omi.me • Docs: https://docs.omi.me
+- Site: https://omi.me · Docs: https://docs.omi.me
 
-## License
+License
 - MIT (per upstream)
-

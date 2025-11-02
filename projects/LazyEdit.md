@@ -2,33 +2,36 @@
 
 Local path: /home/lachlan/Projects/LazyEdit/
 
-AI‑powered automatic video editing that adds professional subtitles, captions, metadata, word cards, teaser intros, and multi‑language enhancements — designed to remove the repetitive work in content creation.
+Problem
+- Creators spend hours on transcription, subtitles, covers, teasers, and metadata—high friction for regular publishing.
 
-## Features
-- Auto‑transcription and subtitle burn‑in
-- CLIP‑style captions and cover image generation
-- Highlighting key words during playback
-- Word cards for language learning
-- Teaser generation (smart repetition)
-- Multi‑language support (EN/ZH + translations)
-- Systemd/tmux integration for background service
+Solution
+- An AI‑assisted pipeline that ingests a video and outputs: burned subtitles, translated variants, highlighted keywords, word‑cards, cover image, teaser repeat, and metadata—all configurable and automated.
 
-## Architecture
-- Python application; web UI at `http://localhost:8081`
-- Core modules in `lazyedit/` (transcribe, translate, metadata, word cards)
-- Integrates with FFmpeg and GPU for acceleration
+Impact
+- Turns long editing sessions into a one‑click workflow; improves accessibility (subtitles), discoverability (captions/metadata), and learning value (word cards).
 
-## Setup
+Architecture
+- Web app at `http://localhost:8081` with background service via systemd+tmux
+- Core modules under `lazyedit/`:
+  - `autocut_processor.py` — segmentation + transcription
+  - `subtitle_translate.py` — translation
+  - `subtitle_metadata.py` — metadata extraction
+  - `video_captioner.py` — captions (CLIP/Vision models)
+  - `words_card.py` — learning artifacts
+  - `openai_version_check.py`, `utils.py`
+- Integrates FFmpeg; optional GPU for transcription
+
+Setup
 - Python 3.10+, FFmpeg, CUDA (optional), Conda
 - `chmod +x install_lazyedit.sh && ./install_lazyedit.sh`
-- Service: `lazyedit.service` (systemd) and tmux session `lazyedit`
+- Service: `lazyedit.service` + tmux `lazyedit`
 
-## CLI
+CLI
 - `conda activate lazyedit && python app.py -m lazyedit`
 
-## Links
+Links
 - Repo: `git@github.com:lachlanchen/LazyEdit.git`
 
-## License
+License
 - See repository
-
