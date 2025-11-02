@@ -47,9 +47,9 @@ Projects at the core:
 
 ## 支援 / Donate
 
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。（日本語）
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。（中文）
-- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements. (English)
+- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
+- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
+- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
 
 - Direct: https://chat.lazying.art/?tab=donate
 
