@@ -53,8 +53,8 @@ Projects at the core:
 
 <table>
   <tr>
+    <td style="vertical-align:middle; padding-right:12px;"><a href="https://chat.lazying.art/?tab=donate">https://chat.lazying.art/?tab=donate</a></td>
     <td><a href="https://chat.lazying.art/?tab=donate"><img src="figs/donate_button.svg" alt="Donate" height="44"></a></td>
-    <td style="padding-left:12px; vertical-align:middle;"><a href="https://chat.lazying.art/?tab=donate">https://chat.lazying.art/?tab=donate</a></td>
   </tr>
   </table>
 
