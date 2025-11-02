@@ -53,7 +53,15 @@ Projects at the core:
 
 <table>
   <tr>
-    <td style="vertical-align:middle; padding-right:12px;"><a href="https://lazying.art/donate">https://lazying.art/donate</a></td>
-    <td><a href="https://lazying.art/donate"><img src="figs/donate_button.svg" alt="Donate" height="44"></a></td>
+    <td style="vertical-align:middle; padding-right:12px;"><a href="https://chat.lazying.art//donate">https://chat.lazying.art//donate</a></td>
+    <td><a href="https://chat.lazying.art//donate"><img src="figs/donate_button.svg" alt="Donate" height="44"></a></td>
   </tr>
   </table>
+
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
+[![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
+
+| WeChat | Alipay |
+| --- | --- |
+| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
+
