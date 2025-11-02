@@ -44,11 +44,11 @@ Thank you — every bit helps. You’re awesome. ❤️
 
 ## Selected Projects
 
-- EchoMind — chat.lazying.art · Multilingual voice + chat for learning and creation
-- MultilingualWhisper — Enhanced Whisper with per‑segment language detection
-- VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions
-- AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor)
-- WordOrigins — explore etymology visually and interactively
+- EchoMind — chat.lazying.art · Multilingual voice + chat for learning and creation [docs](projects/EchoMind.md)
+- MultilingualWhisper — Enhanced Whisper with per‑segment language detection [docs](projects/MultilingualWhisper.md)
+- VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions [docs](projects/VideoCaptionerWithClip.md)
+- AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor) [docs](projects/AutoPublication.md) ([monitor docs](projects/AutoPubMonitor.md))
+- WordOrigins — explore etymology visually and interactively [docs](projects/WordsOrigin.md)
 
 ## Research
 
