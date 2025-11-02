@@ -65,4 +65,3 @@ Projects at the core:
 | --- | --- |
 | <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
 
-“Sometimes the most productive thing you can do is nothing at all.”
