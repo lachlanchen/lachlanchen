@@ -51,10 +51,12 @@ Projects at the core:
 - 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
 - Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
 
-<div align="left">
-  <a href="https://chat.lazying.art/?tab=donate"><img src="figs/donate_button.svg" alt="Donate" height="44" style="vertical-align:middle;"></a>
-  <a href="https://chat.lazying.art/?tab=donate" style="margin-left:12px; vertical-align:middle;">https://chat.lazying.art/?tab=donate</a>
-</div>
+<table>
+  <tr>
+    <td><a href="https://chat.lazying.art/?tab=donate"><img src="figs/donate_button.svg" alt="Donate" height="44"></a></td>
+    <td style="padding-left:12px; vertical-align:middle;"><a href="https://chat.lazying.art/?tab=donate">https://chat.lazying.art/?tab=donate</a></td>
+  </tr>
+  </table>
 
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
 [![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
