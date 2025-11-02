@@ -12,26 +12,6 @@ Projects at the core:
 - LazyingArt — community and experiments in strategic rest: https://lazying.art
 - EchoMind — multimodal chat for learning and connection: https://chat.lazying.art
 
-Donate buttons:
-
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
-[![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
-
-- Open the donate page directly: https://chat.lazying.art/?tab=donate
-
-QR codes (for Mainland donors):
-
-| WeChat | Alipay |
-| --- | --- |
-| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
-
-Ways to support
-- PayPal: https://paypal.me/RongzhouChen
-- Stripe: https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400
-- WeChat / Alipay: QR available on request
-
-Thank you — every bit helps. You’re awesome. ❤️
-
 ## Selected Projects
 
 - EchoMind — chat.lazying.art · Multilingual voice + chat for learning and creation [docs](projects/EchoMind.md)
@@ -52,31 +32,7 @@ Thank you — every bit helps. You’re awesome. ❤️
 - Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
 - Areas: lensless imaging, AI for creative tooling, multilingual speech + captioning, automated publication pipelines.
 
-## 支援 / Donate
-
-- 日本語: ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 中文: 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- English: Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
-
-Donate buttons:
-
-[![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
-[![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
-
-- Open the donate page directly: https://chat.lazying.art/?tab=donate
-
-QR codes (for Mainland donors):
-
-| WeChat | Alipay |
-| --- | --- |
-| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
-
-Ways to support
-- PayPal: https://paypal.me/RongzhouChen
-- Stripe: https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400
-- WeChat / Alipay: QR available on request
-
-Thank you — every bit helps. You’re awesome. ❤️
+ 
 
 ## 📝 About
 
@@ -88,5 +44,20 @@ Thank you — every bit helps. You’re awesome. ❤️
 
 - Email: lach <img src="figs/at.svg" alt="@" width="14" /> lazying.art
 - LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
+
+## 支援 / Donate
+
+- 日本語: ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
+- 中文: 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
+- English: Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
+
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
+[![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
+
+- Direct: https://chat.lazying.art/?tab=donate
+
+| WeChat | Alipay |
+| --- | --- |
+| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
 
 “Sometimes the most productive thing you can do is nothing at all.”
