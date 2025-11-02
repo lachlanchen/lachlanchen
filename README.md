@@ -54,9 +54,9 @@ Thank you — every bit helps. You’re awesome. ❤️
 
 ## 支援 / Donate
 
-- 日本語: ご支援は私の研究・開発と運営に充てられ、機能はペイウォール化せず、LAC の獲得を加速するだけです（2×/5×/10×）。
-- 中文: 你的支持用于我的研发与运维，不设功能付费墙；只会加速 LAC（2×/5×/10×）。
-- English: Your support funds my research/dev and ops; no paywalls—donations only accelerate LAC (2×/5×/10×).
+- 日本語: ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
+- 中文: 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
+- English: Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
 
 Donate buttons:
 
