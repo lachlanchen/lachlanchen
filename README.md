@@ -10,11 +10,11 @@ I focus on the Art of Lazying — building tools, communities, and a philosophy 
 
 Projects at the core:
 - LazyingArt — community and experiments in strategic rest: https://lazying.art
-- EchoMind — multimodal chat for learning and connection: https://chat.lazying.art
+- EchoMind — multimodal chat for learning and connection: [chat.lazying.art](https://chat.lazying.art) [<img src="figs/go_button.svg" alt="Go" height="22"/>](https://chat.lazying.art)
 
 ## Selected Projects
 
-- EchoMind — chat.lazying.art · Multilingual voice + chat for learning and creation [docs](projects/EchoMind.md)
+- EchoMind — [chat.lazying.art](https://chat.lazying.art) · Multilingual voice + chat for learning and creation [<img src="figs/go_button.svg" alt="Go" height="18"/>](https://chat.lazying.art) [docs](projects/EchoMind.md)
 - MultilingualWhisper — Enhanced Whisper with per‑segment language detection [docs](projects/MultilingualWhisper.md)
 - VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions [docs](projects/VideoCaptionerWithClip.md)
 - AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor) [docs](projects/AutoPublication.md) ([monitor docs](projects/AutoPubMonitor.md))
