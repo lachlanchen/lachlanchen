@@ -50,6 +50,11 @@ Thank you — every bit helps. You’re awesome. ❤️
 - AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor)
 - WordOrigins — explore etymology visually and interactively
 
+## Research
+
+- Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
+- Areas: lensless imaging, AI for creative tooling, multilingual speech + captioning, automated publication pipelines.
+
 ## 📝 About
 
 - PhD (in progress), Imaging Systems, The University of Hong Kong
@@ -58,7 +63,7 @@ Thank you — every bit helps. You’re awesome. ❤️
 
 ## 📫 Contact
 
-- Email: lach@lazying.art
+- Email: lach <img src="figs/at.svg" alt="@" width="14" /> lazying.art
 - LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
 
 “Sometimes the most productive thing you can do is nothing at all.”
