@@ -50,6 +50,13 @@ Thank you — every bit helps. You’re awesome. ❤️
 - AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor) [docs](projects/AutoPublication.md) ([monitor docs](projects/AutoPubMonitor.md))
 - WordOrigins — explore etymology visually and interactively [docs](projects/WordsOrigin.md)
 
+## LightMind
+
+- Cofounder & COO of LightMind — an AI‑powered, privacy‑first memory enhancement wearable.
+- Neuromorphic optical encryption + multimodal AI create a searchable personal memory graph.
+- Local‑first design with optional encrypted sync; summaries, timelines, and entity linking.
+- Website: https://lightmind.art · Intro [docs](projects/LightMind.md)
+
 ## Research
 
 - Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
