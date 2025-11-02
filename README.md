@@ -1,43 +1,64 @@
-# Hey there, I'm Lachlan Chen 👋
+# Hey, I'm Lachlan Chen 👋
 
-I'm a creator, researcher, and entrepreneur living at the crossroads of technology and art. By day, I'm knee-deep in imaging systems research. By night, I build platforms and tools that empower creators and make sophisticated technology more accessible to everyone.
+I focus on the Art of Lazying — building tools, communities, and a philosophy that help people do less busy‑work and live more meaningful, engaged lives. My north star: reduce needless labor so everyone can survive and thrive without being trapped by work.
 
-## 🎨 Creative Platforms
+## The Art of Lazying
 
-### [lazying.art](https://lazying.art)
-My flagship project celebrating the forgotten art of intentional rest. In our hyperproductive world, I'm building a community that recognizes the creative power of taking a step back. This isn't about doing nothing—it's about creating space for what truly matters.
+- What it is: a practical philosophy for creating space — stepping back, slowing down, and aligning energy with what matters.
+- What I build: communities, agents, and workflows that remove friction rather than add it.
+- Read the paper: I’m writing up the philosophy and system design; email me if you’d like a copy.
 
-### [onlyideas.art](https://onlyideas.art)
-A sanctuary where ideas can flourish from conception to reality. I believe that every creative spark deserves protection and nurturing. This platform helps creators safeguard their concepts while providing tools to develop them into tangible projects.
+Projects at the core:
+- LazyingArt — community and experiments in strategic rest: https://lazying.art
+- EchoMind — multimodal chat for learning and connection: https://chat.lazying.art
 
-## 🤖 AI-Powered Creative Tools
+## EchoMind · Support without paywalls
 
-I'm developing a suite of "Auto" tools to democratize creative production:
+❤️ 支持 EchoMind
 
-- **AutoCaption** - Intelligent image captioning for accessibility and discovery
-- **AutoTranscription** - Turning spoken word into searchable, editable text
-- **AutoTranslation** - Breaking language barriers for global creative exchange
-- **AutoPublication** - Streamlining the journey from draft to published work
-- **WordsCards** - Interactive vocabulary building for writers and language learners
-- **WordsOrigins** - Exploring the etymology and evolution of language
-- **AutoLanguage** - NLP tools for style analysis and linguistic enhancement
-- **AutoReading** - Making complex texts more accessible through AI summarization
-- **AutoResearch** - Accelerating research workflows for scholars and creators
-- **AutoMusic** - Bridging the gap between musical inspiration and production
+如果这个项目对你有帮助，欢迎请我喝杯咖啡——这能让服务器持续运行、功能持续更新。
 
-## 🔬 Lazeal OptiX
+支持 EchoMind，而非设置付费墙：你的支持将直接用于服务器运维、多语言语音与新增语言，让 EchoMind 对所有人保持开放。如果 EchoMind 帮助你学习、连接或创作，请按能力随喜支持；若无法捐助，分享或邀请朋友也同样有帮助。谢谢你支持以社区为先的应用。
 
-Leading an initiative to democratize cancer diagnostics through lensless imaging technology. We're working to bring advanced diagnostic capabilities into homes, making early detection more accessible and less intimidating.
+Your time isn’t a product — it’s a dividend. Many platforms take; we return. LazyingArtCoin (LAC) rewards everyday contribution — reading, writing, listening, teaching a friend, even pausing to think. Subscriptions don’t lock features; they only accelerate LAC (2×/5×/10×).
 
-## 📝 About Me
+Donate buttons:
 
-Currently pursuing my PhD in Imaging Systems at The University of Hong Kong, with previous degrees from Tsinghua (MSc, Precision Medicine) and Sichuan University (BSc, Applied Chemistry).
+[![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
+[![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
 
-I find that moving between technical precision and creative flow keeps both sides of my brain happy.
+- Open the donate page directly: https://chat.lazying.art/?tab=donate
 
-## 📫 Let's Connect
+QR codes (for Mainland donors):
 
-- Email: [lach@lazying_or_onlyideas.art]
-- LinkedIn: [[linkedin.com/in/lachlanchen](https://linkedin.com/in/lachlanchen)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
+| WeChat | Alipay |
+| --- | --- |
+| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
 
-*"Sometimes the most productive thing you can do is nothing at all."*
+Ways to support
+- PayPal: https://paypal.me/RongzhouChen
+- Stripe: https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400
+- WeChat / Alipay: QR available on request
+
+Thank you — every bit helps. You’re awesome. ❤️
+
+## Selected Projects
+
+- EchoMind — chat.lazying.art · Multilingual voice + chat for learning and creation
+- MultilingualWhisper — Enhanced Whisper with per‑segment language detection
+- VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions
+- AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor)
+- WordOrigins — explore etymology visually and interactively
+
+## 📝 About
+
+- PhD (in progress), Imaging Systems, The University of Hong Kong
+- MSc, Precision Medicine, Tsinghua University
+- BSc, Applied Chemistry, Sichuan University
+
+## 📫 Contact
+
+- Email: lach@lazying.art
+- LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
+
+“Sometimes the most productive thing you can do is nothing at all.”
