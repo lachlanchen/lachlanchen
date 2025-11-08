@@ -19,7 +19,7 @@ Projects at the core:
 - VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions [docs](projects/VideoCaptionerWithClip.md)
 - AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor) [docs](projects/AutoPublication.md) ([monitor docs](projects/AutoPubMonitor.md))
 - WordOrigins — explore etymology visually and interactively [docs](projects/WordsOrigin.md)
-- IdeasGlass — <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · AI wearable glasses that capture, translate, and auto-produce channel-ready video + highlights.
+- IdeasGlass — <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · AI wearable glasses that capture, translate, and auto-produce channel-ready video + highlights. [docs](projects/IdeasGlass.md)
 
 ## LightMind
 
