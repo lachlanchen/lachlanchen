@@ -61,3 +61,7 @@ Projects at the core:
 
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
 [![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
+
+| WeChat | Alipay |
+| --- | --- |
+| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
