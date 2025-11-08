@@ -1,6 +1,5 @@
 # AiSecretary
 
-Local path: /home/lachlan/Projects/EmailAssistant/
 
 A personal email and calendar assistant that ingests incoming messages, performs intelligent triage, and schedules events on your behalf. The system consists of a Python backend (Tornado) and a multi‑platform client (Expo React Native), with storage in PostgreSQL.
 

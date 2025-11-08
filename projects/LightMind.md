@@ -1,6 +1,5 @@
 # LightMind
 
-Local path: LightMindWebsite -> /home/lachlan/Projects/lightmind
 
 Problem
 - People routinely miss, forget, or mis‑prioritize vital details from daily conversations; existing “recall tech” often trades privacy for convenience.

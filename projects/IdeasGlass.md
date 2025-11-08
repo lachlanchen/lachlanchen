@@ -1,6 +1,5 @@
 # IdeasGlass
 
-Local path: `/home/lachlan/ProjectsLFS/IdeasGlass`
 
 Problem
 - Creators capture ideas in motion, juggling dictation apps, translators, editors, and upload tools; by the time highlight reels or channel posts are ready, the moment (and motivation) is gone.

@@ -1,6 +1,5 @@
 # VideoCaptionerWithVit
 
-Local path: /home/lachlan/ProjectsLFS/vit-gpt2-image-captioning
 
 Problem
 - Manual captioning for long videos is slow; simple uniform sampling misses relevance; output needs to be time‑aligned for players/editors.

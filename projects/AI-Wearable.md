@@ -1,6 +1,5 @@
 # AI‑Wearable (Omi)
 
-Local path: /home/lachlan/Projects/omi/
 
 Problem
 - Capturing and recalling key information from daily conversations remains manual; people miss details and action items.

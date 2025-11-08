@@ -1,6 +1,5 @@
 # AutoPubMonitor
 
-Local path: /home/lachlan/Projects/autopub_monitor
 
 Problem
 - Coordinating ingestion, processing, and multi‑platform publishing across machines is brittle without a central queue, service controls, and retries.

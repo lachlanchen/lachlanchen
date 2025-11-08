@@ -1,6 +1,5 @@
 # QuantitativeTrading
 
-Local path: /home/lachlan/Projects/QuantitativeTrading/
 
 Problem
 - Building a multi‑asset quant stack requires wiring data providers, storage, research notebooks, and broker APIs into a coherent workflow that is easy to iterate.

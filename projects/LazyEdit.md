@@ -1,6 +1,5 @@
 # LazyEdit
 
-Local path: /home/lachlan/Projects/LazyEdit/
 
 Problem
 - Creators spend hours on transcription, subtitles, covers, teasers, and metadata—high friction for regular publishing.

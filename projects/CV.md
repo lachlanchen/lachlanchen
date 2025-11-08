@@ -1,6 +1,5 @@
 # CV (Curriculum Vitae)
 
-Local path: /home/lachlan/Documents/CV/
 
 This folder contains personal CV assets and source materials. It is not part of the LazyingArt software pipeline but is symlinked here for convenience.
 

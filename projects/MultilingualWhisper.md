@@ -1,6 +1,5 @@
 # MultilingualWhisper
 
-Local path: /home/lachlan/ProjectsLFS/whisper_with_lang_detect
 
 Problem
 - Whisper’s built‑in language detection is coarse for mixed‑language media; multi‑lingual videos need per‑segment tagging and refined timestamps for clean subtitles.

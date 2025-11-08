@@ -1,6 +1,5 @@
 # VideoCaptionerWithClip
 
-Local path: /home/lachlan/ProjectsLFS/image_captioning
 
 Problem
 - Need high‑quality image captions and embeddings for search/metadata; desire to leverage CLIP semantics with a text decoder.

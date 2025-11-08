@@ -1,6 +1,5 @@
 # WordsOrigin
 
-Local path: /home/lachlan/Projects/WordsOrigin
 
 Problem
 - Etymology resources are fragmented and non‑visual; learners benefit from seeing how words relate across time, families, and morphology.

@@ -1,6 +1,5 @@
 # EchoMind
 
-Local path: /home/lachlan/Projects/voice_chatbot/
 
 Problem
 - Cross‑language voice conversations for learning are fragmented and slow; transcription, LLM response, and natural TTS require juggling tools, while session memory is often inconsistent.

@@ -1,6 +1,5 @@
 # AutoPublication
 
-Local path: /home/lachlan/ProjectsLFS/auto-publish
 
 Problem
 - Publishing a single video to many Chinese and global platforms is error‑prone and time‑consuming: each site has distinct upload flows, cover rules, and forms.

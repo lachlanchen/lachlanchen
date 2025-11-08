@@ -1,6 +1,5 @@
 # LightMindWebsite
 
-Local path: /home/lachlan/Projects/lightmind
 
 Problem
 - Communicating LightMind’s mission (privacy‑first memory enhancement) requires a clear, performant, and visually engaging web presence.

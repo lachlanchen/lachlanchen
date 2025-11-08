@@ -1,6 +1,5 @@
 # The Art of Lazying
 
-Local path: /home/lachlan/Projects/the-art-of-lazying/
 
 Problem
 - Modern workflows optimize for busyness, not meaning; creators and learners drown in overhead.

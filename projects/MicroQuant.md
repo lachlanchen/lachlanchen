@@ -1,6 +1,5 @@
 # MicroQuant
 
-Local path: /home/lachlan/Projects/metatrader_qt/
 
 Problem
 - Fast iteration on simple strategies and live trade hooks with MetaTrader 5 is clunky: bridging Python, MT5, charts, and a small UI with safe order toggles is non‑trivial on Linux.
