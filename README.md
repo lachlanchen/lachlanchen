@@ -19,6 +19,7 @@ Projects at the core:
 - VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions [docs](projects/VideoCaptionerWithClip.md)
 - AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor) [docs](projects/AutoPublication.md) ([monitor docs](projects/AutoPubMonitor.md))
 - WordOrigins — explore etymology visually and interactively [docs](projects/WordsOrigin.md)
+- IdeasGlass — <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · AI wearable glasses that capture, translate, and auto-produce channel-ready video + highlights.
 
 ## LightMind
 
@@ -60,7 +61,3 @@ Projects at the core:
 
 [![Donate with PayPal](https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen)
 [![Donate with Stripe](https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400)
-
-| WeChat | Alipay |
-| --- | --- |
-| <img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/> | <img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/> |
