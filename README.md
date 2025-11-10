@@ -1,56 +1,80 @@
-# Hey, I'm Lachlan Chen 👋
+<p>
+  <b>Languages:</b>
+  <a href="README.md">English</a>
+  · <a href="i18n/README.zh-Hant.md">中文（繁體）</a>
+  · <a href="i18n/README.zh-Hans.md">中文 (简体)</a>
+  · <a href="i18n/README.ja.md">日本語</a>
+  · <a href="i18n/README.ko.md">한국어</a>
+  · <a href="i18n/README.vi.md">Tiếng Việt</a>
+  · <a href="i18n/README.ar.md">العربية</a>
+  · <a href="i18n/README.fr.md">Français</a>
+  · <a href="i18n/README.es.md">Español</a>
+</p>
 
-I focus on the Art of Lazying — building tools, communities, and a philosophy that help people do less busy‑work and live more meaningful, engaged lives. My north star: reduce needless labor so everyone can survive and thrive without being trapped by work.
+# The Art of Lazying — create value with less work
 
-## The Art of Lazying
+Hi, I’m <b>Lachlan</b>.
 
-- What it is: a practical philosophy for creating space — stepping back, slowing down, and aligning energy with what matters.
-- What I build: communities, agents, and workflows that remove friction rather than add it.
-- Read the paper: I’m writing up the philosophy and system design; email me if you’d like a copy.
+I build tools, communities, and a practical philosophy so people can <b>do less busy‑work and live more meaningful, engaged lives</b>.  
+<b>North star:</b> reduce needless labor so anyone can survive and thrive without being trapped by work.
 
-Projects at the core:
-- LazyingArt — community and experiments in strategic rest: https://lazying.art
-- EchoMind — multimodal chat for learning and connection: <a href="https://chat.lazying.art">chat.lazying.art</a> <a href="https://chat.lazying.art"><img src="figs/go_button.svg" alt="Go" height="18" style="vertical-align: middle;"/></a>
+> <b>Only Ideas.</b> Build the minimum that unlocks the most life.
 
-## Selected Projects
+---
 
-- EchoMind — <a href="https://chat.lazying.art">chat.lazying.art</a> · Multilingual voice + chat for learning and creation <a href="https://chat.lazying.art"><img src="figs/go_button.svg" alt="Go" height="18" style="vertical-align: middle;"/></a> [docs](projects/EchoMind.md)
-- MultilingualWhisper — Enhanced Whisper with per‑segment language detection [docs](projects/MultilingualWhisper.md)
-- VideoCaptionerWithClip — CLIP embeddings + GPT decoder for captions [docs](projects/VideoCaptionerWithClip.md)
-- AutoPublication — end‑to‑end pipeline from draft to publish (and AutoPubMonitor) [docs](projects/AutoPublication.md) ([monitor docs](projects/AutoPubMonitor.md))
-- WordOrigins — explore etymology visually and interactively [docs](projects/WordsOrigin.md)
-- IdeasGlass — <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · AI wearable glasses that capture, translate, and auto-produce channel-ready video + highlights. [docs](projects/IdeasGlass.md)
+## Why this exists
+
+- Most “productivity” adds more to do. <b>Lazying</b> subtracts: automate, simplify, and protect attention.
+- Tools should <b>remove friction</b>, not add it.
+- <b>Local‑first, privacy‑first</b> by default.
+
+---
+
+## Flagship projects (live & building)
+
+- <b>EchoMind</b> — Multilingual voice + chat for learning and creation.  
+  <a href="https://chat.lazying.art">chat.lazying.art</a> <a href="https://chat.lazying.art"><img src="figs/go_button.svg" alt="Go" height="18" style="vertical-align: middle;"/></a> · [docs](projects/EchoMind.md)
+
+- <b>MultilingualWhisper</b> — Enhanced Whisper with per‑segment language detection for multilingual video.  
+  [docs](projects/MultilingualWhisper.md)
+
+- <b>LazyEdit</b> — “One‑click” AI video editing: auto‑transcribe, auto‑subtitle, highlights, word cards, metadata, covers.  
+  [docs](projects/LazyEdit.md)
+
+- <b>VideoCaptioner</b>  
+  · <b>With ViT‑GPT2</b> — key‑frame extraction + captions; CLI + Python package.  
+  · <b>With CLIP+GPT</b> — CLIP visual embeddings + GPT‑style decoder for image/video captions.  
+  [docs](projects/VideoCaptionerWithVit.md) · [docs](projects/VideoCaptionerWithClip.md)
+
+- <b>AutoPublication</b> — End‑to‑end pipeline from draft to publish (+ <b>AutoPubMonitor</b> for queueing, caching, sync, multi‑platform).  
+  [docs](projects/AutoPublication.md) · ([monitor docs](projects/AutoPubMonitor.md))
+
+- <b>WordOrigins</b> — Explore etymology as an interactive graph across languages.  
+  [docs](projects/WordsOrigin.md)
+
+- <b>IdeasGlass</b> — AI wearable glasses that capture, translate, and auto‑produce channel‑ready video + highlights.  
+  <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](projects/IdeasGlass.md)
+
+---
 
 ## LightMind
 
-- Cofounder & COO of LightMind — an AI‑powered, privacy‑first memory enhancement wearable.
-- Neuromorphic optical encryption + multimodal AI create a searchable personal memory graph.
-- Local‑first design with optional encrypted sync; summaries, timelines, and entity linking.
-- Website: https://lightmind.art · Intro [docs](projects/LightMind.md)
+<b>Cofounder & COO</b> — building an AI‑powered, privacy‑first memory wearable.  
+Neuromorphic <b>optical encryption</b> + multimodal AI create a searchable personal memory graph.  
+Local‑first design with optional encrypted sync; summaries, timelines, and entity linking.
 
-## Research
+Website: https://lightmind.art · Intro [docs](projects/LightMind.md)
 
-- Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
-- Areas: lensless imaging, AI for creative tooling, multilingual speech + captioning, automated publication pipelines.
+---
 
- 
+## What your support makes possible
 
-## 📝 About
+- <b>Keep tools open</b>: hosting, inference, data storage, and community ops.  
+- <b>Ship faster</b>: weeks of focused open‑source time on EchoMind, LazyEdit, and MultilingualWhisper.  
+- <b>Prototype wearables</b>: optics, sensors, and neuromorphic/edge components for IdeasGlass + LightMind.  
+- <b>Access for all</b>: subsidized deployments for students, creators, and community groups.
 
-- PhD (in progress), Imaging Systems, The University of Hong Kong
-- MSc, Precision Medicine, Tsinghua University
-- BSc, Applied Chemistry, Sichuan University
-
-## 📫 Contact
-
-- Email: lach <img src="figs/at.svg" alt="@" width="14" /> lazying.art
-- LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
-
-## 支援 / Donate
-
-- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。
-- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
-- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
+### Donate
 
 <div align="center">
 <table style="margin:0 auto; text-align:center; border-collapse:collapse;">
@@ -83,4 +107,42 @@ Projects at the core:
     <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/></td>
   </tr>
 </table>
- </div>
+</div>
+
+**支援 / Donate**
+
+- ご支援は研究・開発と運用の継続に役立ち、より多くのオープンなプロジェクトを皆さんに届ける力になります。  
+- 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。  
+- Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
+
+---
+
+## Research
+
+- **Areas**: lensless/event‑based imaging, AI for creative tooling, multilingual speech + captioning, automated publication pipelines.  
+- **Google Scholar**: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
+
+Selected research code:
+- **ECA: Eigen‑Component Analysis** — interpretable linear model (supervised + unsupervised) with scikit‑learn‑style API.  
+- **Event‑based imaging** — Rapid Organoid Imaging, Event‑assisted Holography, Soft Event‑Frame Alignment.
+
+---
+
+## About
+
+- PhD (in progress), Imaging Systems, The University of Hong Kong  
+- MSc, Precision Medicine, Tsinghua University  
+- BSc, Applied Chemistry, Sichuan University
+
+## Contact
+
+- Email: lach@lazying.art  
+- Website: https://lazying.art  
+- LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
+
+---
+
+### A final note
+
+If a tool here helped you learn faster, publish quicker, or breathe a little easier—<b>that’s the point</b>.  
+<b>Build less. Live more.</b>
