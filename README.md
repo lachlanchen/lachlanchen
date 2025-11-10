@@ -52,33 +52,35 @@ Projects at the core:
 - 你的支持将用于研发与运维，帮助我持续公开分享更多项目与改进。
 - Your support sustains my research, development, and ops so I can keep sharing more open projects and improvements.
 
-<table>
+<div align="center">
+<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
   <tr>
-    <td style="vertical-align:middle; padding-right:12px;">
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
       <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
     </td>
-    <td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
       <a href="https://chat.lazying.art/donate"><img src="figs/donate_button.svg" alt="Donate" height="44"></a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
       <a href="https://paypal.me/RongzhouChen">
         <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donate with PayPal">
       </a>
     </td>
-    <td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
       <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
         <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donate with Stripe">
       </a>
     </td>
   </tr>
   <tr>
-    <td><strong>WeChat</strong></td>
-    <td><strong>Alipay</strong></td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
   </tr>
   <tr>
-    <td><img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/></td>
-    <td><img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/></td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="figs/donate_wechat.png" width="240"/></td>
+    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="figs/donate_alipay.png" width="240"/></td>
   </tr>
 </table>
+ </div>
