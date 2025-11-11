@@ -52,6 +52,12 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 - <b>WordOrigins</b> — Explore etymology as an interactive graph across languages.  
   [docs](projects/WordsOrigin.md)
 
+- <b>LazyEarn</b> — Automations that convert small contributions into earnings across LazyingArt apps.  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> — Agent that turns ideas into drafts, tasks, and scheduled posts across channels.  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 - <b>IdeasGlass</b> — AI wearable glasses that capture, translate, and auto‑produce channel‑ready video + highlights.  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](projects/IdeasGlass.md)
 
