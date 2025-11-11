@@ -71,8 +71,8 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 - <b>LazealOptix</b> — lightweight optics + metasurface experiments and tooling (design, simulation, analysis).  
   <a href="https://github.com/lachlanchen/lazealoptix">github.com/lachlanchen/lazealoptix</a>
 
-- <b>LazyPhysicsAndChemistry</b> — compact notes, runnable examples, and “lazy learn” study tracks across physics/chemistry.  
-  Includes reading trails like Susskind’s The Theoretical Minimum and working notebooks.  
+- <b>LazyLearn (Physics & Chemistry)</b> — compact notes, runnable examples, and “lazy learn” study tracks across physics/chemistry.  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · Includes reading trails like Susskind’s The Theoretical Minimum and working notebooks.  
   Repos: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
 
 ---
