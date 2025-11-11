@@ -59,6 +59,14 @@
 
 ---
 
+## الفيزياء · البصريات · Lazy Learn
+
+- <b>LazyLearn (الفيزياء والكيمياء)</b> — ملاحظات موجزة، أمثلة قابلة للتشغيل، ومسارات تعلم “كسولة”.  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · يتضمن مسارات قراءة Susskind “The Theoretical Minimum” ودفاتر عمل.  
+  صِلات: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>شريك مؤسس ومدير عمليات</b> — جهاز قابل للارتداء للذاكرة، يراعي الخصوصية.  
@@ -119,4 +127,3 @@
 - بريد: lach@lazying.art · موقع: https://lazying.art · LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
 
 </div>
-

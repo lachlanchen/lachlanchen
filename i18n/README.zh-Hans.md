@@ -57,6 +57,14 @@
 
 ---
 
+## 物理 · 光学 · 懒学（Lazy Learn）
+
+- <b>LazyLearn（物理与化学）</b> —— 精炼笔记、可运行示例与“懒学”学习路径。  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · 包含 Susskind《The Theoretical Minimum》等阅读路线与工作型笔记本。  
+  相关：<a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>联合创始人 & COO</b> —— 构建隐私优先的 AI 记忆可穿戴。  
@@ -130,4 +138,3 @@
 - MSc，清华大学 精准医学  
 - BSc，四川大学 应用化学  
 - Email：lach@lazying.art · 网站：https://lazying.art · 领英：https://hk.linkedin.com/in/lachlan-chen-7a056a233
-

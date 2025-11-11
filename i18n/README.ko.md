@@ -57,6 +57,14 @@
 
 ---
 
+## 물리 · 광학 · Lazy Learn
+
+- <b>LazyLearn (물리 & 화학)</b> — 간결한 노트, 실행 가능한 예제, “Lazy Learn” 학습 트랙.  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · Susskind의 “The Theoretical Minimum” 독서 루트와 워킹 노트 포함.  
+  관련: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>공동창업/COO</b> — 프라이버시 우선 AI 메모리 웨어러블.  
@@ -115,4 +123,3 @@
 - 분야: 렌즈리스/이벤트 영상, 크리에이티브 AI, 다국어 음성/자막, 자동 게시 파이프라인.  
 - Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en  
 - Email: lach@lazying.art · Web: https://lazying.art · LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
-

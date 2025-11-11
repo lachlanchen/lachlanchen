@@ -57,6 +57,14 @@ Mình xây cộng đồng, công cụ và một triết lý thực hành để m
 
 ---
 
+## Vật lý · Quang học · Lazy Learn
+
+- <b>LazyLearn (Vật lý & Hóa học)</b> — ghi chú gọn, ví dụ chạy được và lộ trình học “lazy learn”.  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · gồm lộ trình đọc Susskind “The Theoretical Minimum” và notebook làm việc.  
+  Liên quan: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>Đồng sáng lập & COO</b> — thiết bị ghi nhớ AI ưu tiên quyền riêng tư.  
@@ -115,4 +123,3 @@ Website: https://lightmind.art · [docs](../projects/LightMind.md)
 - Lĩnh vực: ảnh không ống kính/sự kiện, AI cho công cụ sáng tạo, đa ngữ giọng nói + phụ đề, pipeline xuất bản tự động.  
 - Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en  
 - Email: lach@lazying.art · Web: https://lazying.art · LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
-

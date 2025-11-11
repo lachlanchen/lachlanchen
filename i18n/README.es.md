@@ -57,6 +57,14 @@ Construyo herramientas, comunidades y una filosofía práctica para <b>reducir e
 
 ---
 
+## Física · Óptica · Lazy Learn
+
+- <b>LazyLearn (Física y Química)</b> — notas concisas, ejemplos ejecutables y rutas de estudio “lazy learn”.  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · incluye las lecturas de Susskind “The Theoretical Minimum” y notebooks de trabajo.  
+  Enlaces: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>Co‑fundador y COO</b> — wearable de memoria con IA y privacidad por defecto.  
@@ -115,4 +123,3 @@ Sitio: https://lightmind.art · [docs](../projects/LightMind.md)
 - Áreas: imagen sin lentes/basada en eventos, IA para herramientas creativas, voz multilingüe + subtitulado, pipelines automáticos.  
 - Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en  
 - Email: lach@lazying.art · Web: https://lazying.art · LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
-

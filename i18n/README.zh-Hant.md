@@ -57,6 +57,14 @@
 
 ---
 
+## 物理 · 光學 · 懶學（Lazy Learn）
+
+- <b>LazyLearn（物理與化學）</b> —— 精煉筆記、可執行範例與「懶學」學習路徑。  
+  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · 包含 Susskind《The Theoretical Minimum》等閱讀路線與可運行筆記。  
+  相關：<a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>共同創辦 & COO</b> —— 打造隱私優先的 AI 記憶穿戴。  
@@ -119,4 +127,3 @@
 - 領域：無透鏡/事件成像、創作工具 AI、多語語音與字幕、自動化發佈流程。  
 - Scholar：https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en  
 - Email：lach@lazying.art · 網站：https://lazying.art · LinkedIn：https://hk.linkedin.com/in/lachlan-chen-7a056a233
-
