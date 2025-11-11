@@ -63,6 +63,20 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 
 ---
 
+## Physics • Optics • Lazy Learn
+
+- <b>Cellist</b> — “Lazy” cell segmentation that favors simple, robust heuristics + fast post‑processing over heavy pipelines.  
+  <a href="https://github.com/lachlanchen/cellist">github.com/lachlanchen/cellist</a>
+
+- <b>LazealOptix</b> — lightweight optics + metasurface experiments and tooling (design, simulation, analysis).  
+  <a href="https://github.com/lachlanchen/lazealoptix">github.com/lachlanchen/lazealoptix</a>
+
+- <b>LazyPhysicsAndChemistry</b> — compact notes, runnable examples, and “lazy learn” study tracks across physics/chemistry.  
+  Includes reading trails like Susskind’s The Theoretical Minimum and working notebooks.  
+  Repos: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
+
+---
+
 ## LightMind
 
 <b>Cofounder & COO</b> — building an AI‑powered, privacy‑first memory wearable.  
