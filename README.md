@@ -77,6 +77,19 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 
 ---
 
+## Websites
+
+- lazying.art — live (“LazyingArt - Bridging Humanity Through AI Language Innovation”)
+- onlyideas.art — live (“OnlyIdeas — LazyingArt”)
+- earn.lazying.art — live (“Earn From Scratch · Lazy Money Lab”)
+- learn.lazying.art — not reachable (configure DNS/Pages)
+- robot.lazying.art — not reachable (configure DNS/Pages)
+- ideas.lazying.art — live (“IdeasGlass”)
+- coin.lazying.art — live (“LazyingArt Coin”)
+- ideas.onlyideas.art — live (“IDEAS — Research to Product”)
+
+---
+
 ## LightMind
 
 <b>Cofounder & COO</b> — building an AI‑powered, privacy‑first memory wearable.  
