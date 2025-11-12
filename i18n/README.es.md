@@ -55,6 +55,12 @@ Construyo herramientas, comunidades y una filosofía práctica para <b>reducir e
 - <b>IdeasGlass</b> — gafas IA que capturan, traducen y generan highlights listos para publicar.  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](../projects/IdeasGlass.md)
 
+- <b>LazyEarn</b> — automatizaciones que convierten pequeñas contribuciones en ingresos.  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> — un agente que convierte ideas en borradores, tareas y publicaciones programadas.  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 ---
 
 ## Física · Óptica · Lazy Learn

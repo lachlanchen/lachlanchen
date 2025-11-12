@@ -57,6 +57,12 @@
 - <b>IdeasGlass</b> — نظارات ذكاء اصطناعي تلتقط وتترجم وتُنتج لقطات جاهزة للنشر.  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](../projects/IdeasGlass.md)
 
+- <b>LazyEarn</b> — أتمتة تُحوّل المساهمات الصغيرة إلى دخل.  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> — وكيل يحوّل الأفكار إلى مسودات ومهام وجدولة منشورات.  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 ---
 
 ## الفيزياء · البصريات · Lazy Learn

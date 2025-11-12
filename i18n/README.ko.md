@@ -55,6 +55,12 @@
 - <b>IdeasGlass</b> — 캡처·번역·채널용 하이라이트 자동 생성 AI 안경.  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](../projects/IdeasGlass.md)
 
+- <b>LazyEarn</b> — 작은 기여를 수익으로 바꾸는 자동화.  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> — 아이디어를 초안·작업·예약 게시로 바꾸는 에이전트.  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 ---
 
 ## 물리 · 광학 · Lazy Learn

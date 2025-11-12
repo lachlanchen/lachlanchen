@@ -55,6 +55,12 @@
 - <b>IdeasGlass</b> — アイデアを捉え、翻訳し、チャンネル向けのハイライトを自動生成する AI メガネ。  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](../projects/IdeasGlass.md)
 
+- <b>LazyEarn</b> — 小さな貢献を収益に変える自動化。  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> — アイデアを下書き・タスク・予約投稿に変えるエージェント。  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 ---
 
 ## 物理・光学・Lazy Learn

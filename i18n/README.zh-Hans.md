@@ -55,6 +55,12 @@
 - <b>IdeasGlass</b> —— AI 眼镜：捕捉、翻译并自动产出可发布的高光内容。  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [文档](../projects/IdeasGlass.md)
 
+- <b>LazyEarn</b> —— 把小贡献转化为收益的自动化。  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> —— 将想法转成草稿、任务与排程发布的代理。  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 ---
 
 ## 物理 · 光学 · 懒学（Lazy Learn）

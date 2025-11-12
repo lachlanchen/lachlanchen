@@ -55,6 +55,12 @@ Mình xây cộng đồng, công cụ và một triết lý thực hành để m
 - <b>IdeasGlass</b> — kính AI thu bắt, dịch và tự động tạo video highlight sẵn sàng đăng tải.  
   <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](../projects/IdeasGlass.md)
 
+- <b>LazyEarn</b> — tự động hoá biến đóng góp nhỏ thành thu nhập.  
+  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
+
+- <b>IdeasRobot</b> — biến ý tưởng thành bản thảo, tác vụ và lịch đăng.  
+  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
+
 ---
 
 ## Vật lý · Quang học · Lazy Learn
