@@ -20,6 +20,10 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 
 > <b>Only Ideas.</b> Build the minimum that unlocks the most life.
 
+<p align="center">
+  🪙 <a href="https://coin.lazying.art"><b>Add LazyingArtCoin (LAC) to MetaMask</b></a>
+</p>
+
 ---
 
 ## Why this exists
@@ -108,10 +112,6 @@ Website: https://lightmind.art · Intro [docs](projects/LightMind.md)
 - <b>Access for all</b>: subsidized deployments for students, creators, and community groups.
 
 ### Donate
-
-<p align="center">
-  <a href="https://coin.lazying.art"><b>Add LazyingArtCoin (LAC) to MetaMask</b></a>
-</p>
 
 <div align="center">
 <table style="margin:0 auto; text-align:center; border-collapse:collapse;">
