@@ -79,14 +79,14 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 
 ## Websites
 
-- lazying.art — live (“LazyingArt - Bridging Humanity Through AI Language Innovation”)
-- onlyideas.art — live (“OnlyIdeas — LazyingArt”)
-- earn.lazying.art — live (“Earn From Scratch · Lazy Money Lab”)
-- learn.lazying.art — not reachable (configure DNS/Pages)
-- robot.lazying.art — not reachable (configure DNS/Pages)
-- ideas.lazying.art — live (“IdeasGlass”)
-- coin.lazying.art — live (“LazyingArt Coin”)
-- ideas.onlyideas.art — live (“IDEAS — Research to Product”)
+- 🎨 <a href="https://lazying.art">lazying.art</a> — “LazyingArt - Bridging Humanity Through AI Language Innovation” (live)
+- 🌱 <a href="https://onlyideas.art">onlyideas.art</a> — “OnlyIdeas — LazyingArt” (live)
+- 💸 <a href="https://earn.lazying.art">earn.lazying.art</a> — “Earn From Scratch · Lazy Money Lab” (live)
+- 📚 <a href="https://learn.lazying.art">learn.lazying.art</a> — LazyLearn tracks for physics & chemistry (DNS/Pages to finalize)
+- 🤖 <a href="https://robot.lazying.art">robot.lazying.art</a> — IdeasRobot agent hub (DNS/Pages to finalize)
+- 👓 <a href="https://glass.lazying.art">glass.lazying.art</a> — “IdeasGlass” (live)
+- 🪙 <a href="https://coin.lazying.art">coin.lazying.art</a> — “LazyingArt Coin” (live)
+- 🧪 <a href="https://ideas.onlyideas.art">ideas.onlyideas.art</a> — “IDEAS — Research to Product” (live)
 
 ---
 
@@ -108,6 +108,10 @@ Website: https://lightmind.art · Intro [docs](projects/LightMind.md)
 - <b>Access for all</b>: subsidized deployments for students, creators, and community groups.
 
 ### Donate
+
+<p align="center">
+  <a href="https://coin.lazying.art"><b>Add LazyingArtCoin (LAC) to MetaMask</b></a>
+</p>
 
 <div align="center">
 <table style="margin:0 auto; text-align:center; border-collapse:collapse;">
