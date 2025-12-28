@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="figs/banner.png" alt="LazyingArt banner" />
+</p>
+
 # Project Notes Index
 
 Comprehensive notes for symlinked projects in this repo:
