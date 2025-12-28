@@ -15,10 +15,6 @@
   · <a href="i18n/README.es.md">Español</a>
 </p>
 
-<p align="center">
-  <img src="figs/logo_w_text.png" alt="LazyingArt logo" width="420" />
-</p>
-
 # The Art of Lazying — create value with less work
 
 Hi, I’m <b>Lachlan</b>.
