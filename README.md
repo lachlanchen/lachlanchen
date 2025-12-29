@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="figs/banner.png" alt="LazyingArt banner" />
+  <img src="logos-bamboo/banner.png" alt="LazyingArt banner" />
 </p>
 
 <p>
