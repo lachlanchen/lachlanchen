@@ -89,11 +89,12 @@ I build tools, communities, and a practical philosophy so people can <b>do less 
 
 - 🎨 <a href="https://lazying.art">lazying.art</a> — “LazyingArt - Bridging Humanity Through AI Language Innovation” (live)
 - 🌱 <a href="https://onlyideas.art">onlyideas.art</a> — “OnlyIdeas — LazyingArt” (live)
+- 🪙 <a href="https://coin.lazying.art">coin.lazying.art</a> — “LazyingArt Coin” (live)
+- 📄 <a href="https://paper.lazying.art">paper.lazying.art</a> — “PaperAgent” (live)
 - 💸 <a href="https://earn.lazying.art">earn.lazying.art</a> — “Earn From Scratch · Lazy Money Lab” (live)
 - 📚 <a href="https://learn.lazying.art">learn.lazying.art</a> — LazyLearn tracks for physics & chemistry (DNS/Pages to finalize)
 - 🤖 <a href="https://robot.lazying.art">robot.lazying.art</a> — IdeasRobot agent hub (DNS/Pages to finalize)
 - 👓 <a href="https://glass.lazying.art">glass.lazying.art</a> — “IdeasGlass” (live)
-- 🪙 <a href="https://coin.lazying.art">coin.lazying.art</a> — “LazyingArt Coin” (live)
 - 🧪 <a href="https://ideas.onlyideas.art">ideas.onlyideas.art</a> — “IDEAS — Research to Product” (live)
 
 ---
