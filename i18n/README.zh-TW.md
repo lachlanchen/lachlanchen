@@ -1,20 +1,8 @@
-<p>
-  <a href="README.md">English</a>
-  · <a href="README.zh-TW.md">中文（繁體）</a>
-  · <a href="README.zh-CN.md">中文 (简体)</a>
-  · <a href="README.ja.md">日本語</a>
-  · <a href="README.ko.md">한국어</a>
-  · <a href="README.vi.md">Tiếng Việt</a>
-  · <a href="README.ar.md">العربية</a>
-  · <a href="README.fr.md">Français</a>
-  · <a href="README.es.md">Español</a>
-  · <a href="README.de.md">Deutsch</a>
-  · <a href="README.ru.md">Русский</a>
-</p>
+[English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
+
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-**Languages:** [English](https://github.com/lachlanchen/lachlanchen/blob/main/README.md) · [中文（繁體）](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.zh-Hant.md) · [中文 (简体)](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.zh-Hans.md) · [日本語](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ja.md) · [한국어](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ko.md) · [Tiếng Việt](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.vi.md) · [العربية](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ar.md) · [Français](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.fr.md) · [Español](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.es.md)
 
 # Lachlan Chen · he/him
 

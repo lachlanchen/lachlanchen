@@ -1,46 +1,48 @@
 [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
+
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
 # Lachlan Chen · he/him
 
 [![Creator & CEO](https://img.shields.io/badge/Creator%20%26%20CEO-LazyingArt%20LLC-0f766e?style=flat-square)](https://lazying.art)
 [![Cofounder & COO](https://img.shields.io/badge/Cofounder%20%26%20COO-LightMind%20Tech%20Ltd-1d4ed8?style=flat-square)](https://lightmind.art)
-[![Focus](https://img.shields.io/badge/Focus-Tools%20%7C%20Learning%20%7C%20Memory-334155?style=flat-square)](#lo-que-construyo)
-[![Profile Repo](https://img.shields.io/badge/GitHub-Profile%20README-111827?style=flat-square)](https://github.com/lachlanchen/lachlanchen)
+[![Profile Repository](https://img.shields.io/badge/GitHub-Profile%20README-111827?style=flat-square)](https://github.com/lachlanchen/lachlanchen)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lachlan%20Chen-0A66C2?style=flat-square)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
 
 Construyo **herramientas y sistemas** que ayudan a las personas a crear, aprender y recordar con menos fricción.
 
 > **The Art of Lazying**  
-> Construye menos. Desbloquea más vida.
+> Construye menos. Libera más vida.
 
-## Lo Que Construyo
+---
 
-| Área | Enfoque |
-| --- | --- |
-| Sistemas Creativos | Herramientas que aceleran el flujo de idea a resultado |
-| Infraestructura de Aprendizaje | Productos para comprensión, retención y ciclos de retroalimentación |
-| Memoria y Cognición | Sistemas que ayudan a pensar con claridad y recordar por más tiempo |
+## 🧭 Sobre mí
 
-## Enlaces Rápidos
+- Creador y CEO de **LazyingArt LLC**
+- Cofundador y COO de **LightMind Tech Ltd**
+- Enfoque: productos prácticos de IA, sistemas de conocimiento y flujos de trabajo creativos
 
-| Tipo | Enlace |
-| --- | --- |
+## 🔗 Enlaces rápidos
+
+| Área | Enlace |
+|---|---|
 | 🌐 Sitios web | [lazying.art](https://lazying.art) · [onlyideas.art](https://onlyideas.art) |
 | 🧠 EchoMind | [chat.lazying.art](https://chat.lazying.art) |
-| 📚 Centros de investigación | [paper.lazying.art](https://paper.lazying.art) · [ideas.onlyideas.art](https://ideas.onlyideas.art) |
-| 🎓 Google Scholar | [Perfil de citas](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en) |
+| 📚 Centro de investigación | [paper.lazying.art](https://paper.lazying.art) · [ideas.onlyideas.art](https://ideas.onlyideas.art) |
+| 🎓 Google Scholar | [perfil académico](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en) |
 | 💼 LinkedIn | [lachlan-chen-7a056a233](https://hk.linkedin.com/in/lachlan-chen-7a056a233) |
 
-## Repositorios Principales
+## 🚀 Repositorios principales
 
-| Proyecto | Resumen |
-| --- | --- |
-| 🤖 [LazyingArtBot (LAB)](https://github.com/lachlanchen/LazyingArtBot) | Toolchain agéntico para el ecosistema LazyingArt |
-| 🧩 [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Flujos de trabajo y herramientas para desarrollo automatizado de aplicaciones |
-| 📖 [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Sistema estructurado para escritura de formato largo y generación de historias |
-| 🧠 [AgInTi](https://github.com/lachlanchen/AgInTi) | Investigación e implementación de agentes de IA humanoides |
+| Proyecto | Resumen | Enlace |
+|---|---|---|
+| 🤖 **LazyingArtBot (LAB)** | Asistente de IA y base de automatización dentro del ecosistema LazyingArt | [Repository](https://github.com/lachlanchen/LazyingArtBot) |
+| 🧩 **AutoAppDev** | Herramientas para agilizar los flujos de desarrollo de aplicaciones | [Repository](https://github.com/lachlanchen/AutoAppDev) |
+| 📖 **AutoNovelWriter** | Flujos de trabajo para escritura creativa de formato largo y generación de historias | [Repository](https://github.com/lachlanchen/AutoNovelWriter) |
+| 🧠 **AgInTi** | Experimentación con agentes humanoides de IA y diseño de sistemas | [Repository](https://github.com/lachlanchen/AgInTi) |
 
-## Sobre Este Repositorio
+## 🎯 Lo que me importa
 
-Este repositorio es el **README especial de perfil de GitHub** para `lachlanchen`, con variantes de idioma en `i18n/`.
+**The Art of Lazying** significa diseñar sistemas que reduzcan el esfuerzo innecesario sin perder profundidad, calidad ni creatividad humana.
