@@ -52,3 +52,24 @@ Es ist dokumentationsorientiert und mehrsprachig, mit `README.md` als kanonische
 
 **The Art of Lazying** bedeutet, Systeme so zu gestalten, dass unnötiger Aufwand reduziert wird, ohne Tiefe, Qualität und menschliche Kreativität zu verlieren.
 
+---
+
+## 🧩 Key Projects
+
+- **OpenHI**: Self-calibrated event-based hyperspectral imaging
+- **EchoMind**: Multilingual voice/chat for learning and creation
+- **AutoPublish + AutoPubMonitor**: Draft-to-publish automation pipelines
+- **LazyEdit**: AI-assisted editing, subtitles, highlights, packaging
+
+## ❤️ Support
+
+| Donate | PayPal | Stripe |
+|---|---|---|
+| [![Donate](https://img.shields.io/badge/Donate-LazyingArt-0EA5E9?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chat.lazying.art/donate) | [![PayPal](https://img.shields.io/badge/PayPal-RongzhouChen-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/RongzhouChen) | [![Stripe](https://img.shields.io/badge/Stripe-Donate-635BFF?style=for-the-badge&logo=stripe&logoColor=white)](https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400) |
+
+## 📬 Contact
+
+- Email: `lach@lazying.art`
+- Website: https://lazying.art
+
+Build less. Live more.
