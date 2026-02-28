@@ -1,56 +1,48 @@
-**Languages:** [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md)
+[English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-**Languages:** [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md)
+**Langues :** [English](https://github.com/lachlanchen/lachlanchen/blob/main/README.md) · [中文（繁體）](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.zh-Hant.md) · [中文 (简体)](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.zh-Hans.md) · [日本語](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ja.md) · [한국어](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ko.md) · [Tiếng Việt](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.vi.md) · [العربية](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ar.md) · [Français](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.fr.md) · [Español](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.es.md) · [Deutsch](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.de.md) · [Русский](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ru.md)
 
 # Lachlan Chen · he/him
 
-[![Website](https://img.shields.io/badge/Website-lazying.art-0f766e?style=for-the-badge)](https://lazying.art)
-[![OnlyDieas](https://img.shields.io/badge/Website-onlydieas.art-1f7a8c?style=for-the-badge)](https://onlydieas.art)
-[![EchoMind](https://img.shields.io/badge/EchoMind-Live-0891b2?style=for-the-badge)](https://chat.lazying.art)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
+[![Creator & CEO](https://img.shields.io/badge/Creator%20%26%20CEO-LazyingArt%20LLC-0f766e?style=flat-square)](https://lazying.art)
+[![Cofounder & COO](https://img.shields.io/badge/Cofounder%20%26%20COO-LightMind%20Tech%20Ltd-1d4ed8?style=flat-square)](https://lightmind.art)
+[![Focus](https://img.shields.io/badge/Focus-Tools%20%7C%20Learning%20%7C%20Memory-334155?style=flat-square)](#ce-que-je-construis)
+[![Profile Repo](https://img.shields.io/badge/GitHub-Profile%20README-111827?style=flat-square)](https://github.com/lachlanchen/lachlanchen)
 
-Je crée des **outils et des systèmes** qui aident les gens à créer, apprendre et mémoriser, avec moins de friction.
+Je construis des **outils et des systèmes** qui aident les gens à créer, apprendre et mémoriser avec moins de friction.
 
-Creator & CEO de **LazyingArt LLC**  
-Cofounder & COO chez **LightMind Tech Ltd**
+> **The Art of Lazying**  
+> Construire moins. Libérer plus de vie.
 
-> The Art of Lazying  
-> Build less. Unlock more life.
+## Ce Que Je Construis
 
-## À propos
+| Domaine | Axe principal |
+| --- | --- |
+| Systèmes créatifs | Des outils qui accélèrent le passage de l’idée au résultat |
+| Infrastructure d’apprentissage | Des produits pour la compréhension, la rétention et les boucles de retour |
+| Mémoire et cognition | Des systèmes qui aident à penser clairement et à retenir plus longtemps |
 
-Voici mon hub de profil GitHub.
-Il permet aux visiteurs d'accéder à mes produits actifs, à mes recherches et à mes principaux projets open source.
+## Liens Rapides
 
-## Liens rapides
-
-| Domaine | Lien |
-|---|---|
-| 🌐 Site web | [lazying.art](https://lazying.art) |
-| 🌐 Site web | [onlydieas.art](https://onlydieas.art) |
+| Type | Lien |
+| --- | --- |
+| 🌐 Sites web | [lazying.art](https://lazying.art) · [onlyideas.art](https://onlyideas.art) |
 | 🧠 EchoMind | [chat.lazying.art](https://chat.lazying.art) |
-| 📚 Hub de recherche | [paper.lazying.art](https://paper.lazying.art) |
-| 💡 Hub d'idées | [ideas.onlyideas.art](https://ideas.onlyideas.art) |
-| 🎓 Google Scholar | [Profil Scholar](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en) |
+| 📚 Pôles de recherche | [paper.lazying.art](https://paper.lazying.art) · [ideas.onlyideas.art](https://ideas.onlyideas.art) |
+| 🎓 Google Scholar | [Profil de citations](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en) |
 | 💼 LinkedIn | [lachlan-chen-7a056a233](https://hk.linkedin.com/in/lachlan-chen-7a056a233) |
 
-## Dépôts principaux
+## Dépôts Principaux
 
-| Projet | Focus |
-|---|---|
-| 🤖 [LazyingArtBot (LAB)](https://github.com/lachlanchen/LazyingArtBot) | Assistant créatif et outils de workflow |
-| 🧩 [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Workflows automatisés de développement d'applications |
-| 📖 [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Pipeline d'écriture longue assisté par l'IA |
-| 🧠 [AgInTi](https://github.com/lachlanchen/AgInTi) | Recherche et implémentation d'un agent IA humanoïde |
+| Projet | Résumé |
+| --- | --- |
+| 🤖 [LazyingArtBot (LAB)](https://github.com/lachlanchen/LazyingArtBot) | Chaîne d’outils agentique pour l’écosystème LazyingArt |
+| 🧩 [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Flux de travail et outillage pour le développement d’applications automatisé |
+| 📖 [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Système structuré d’écriture longue et de génération d’histoires |
+| 🧠 [AgInTi](https://github.com/lachlanchen/AgInTi) | Recherche et implémentation d’un agent IA humanoïde |
 
-## Centres d'intérêt
+## À Propos De Ce Dépôt
 
-`The Art of Lazying`  
-Build less. Unlock more life.
-
-## Contact
-
-Ouvrez une issue ou contactez-moi via [LinkedIn](https://hk.linkedin.com/in/lachlan-chen-7a056a233).
+Ce dépôt est le **README de profil GitHub** spécial de `lachlanchen`, avec des variantes linguistiques sous `i18n/`.

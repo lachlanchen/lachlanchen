@@ -1,139 +1,46 @@
-<p>
-  <a href="README.md">English</a>
-  · <a href="README.zh-TW.md">中文（繁體）</a>
-  · <a href="README.zh-CN.md">中文 (简体)</a>
-  · <a href="README.ja.md">日本語</a>
-  · <a href="README.ko.md">한국어</a>
-  · <a href="README.vi.md">Tiếng Việt</a>
-  · <a href="README.ar.md">العربية</a>
-  · <a href="README.fr.md">Français</a>
-  · <a href="README.es.md">Español</a>
-  · <a href="README.de.md">Deutsch</a>
-  · <a href="README.ru.md">Русский</a>
-</p>
+[English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md) · [Deutsch](README.de.md) · [Русский](README.ru.md)
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-**Languages:** [English](https://github.com/lachlanchen/lachlanchen/blob/main/README.md) · [中文（繁體）](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.zh-Hant.md) · [中文 (简体)](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.zh-Hans.md) · [日本語](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ja.md) · [한국어](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ko.md) · [Tiếng Việt](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.vi.md) · [العربية](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.ar.md) · [Français](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.fr.md) · [Español](https://github.com/lachlanchen/lachlanchen/blob/main/i18n/README.es.md)
+# Lachlan Chen · он/его
 
-# Lachlan Chen · he/him
+[![Creator & CEO](https://img.shields.io/badge/Creator%20%26%20CEO-LazyingArt%20LLC-0f766e?style=flat-square)](https://lazying.art)
+[![Cofounder & COO](https://img.shields.io/badge/Cofounder%20%26%20COO-LightMind%20Tech%20Ltd-1d4ed8?style=flat-square)](https://lightmind.art)
+[![Focus](https://img.shields.io/badge/Focus-Tools%20%7C%20Learning%20%7C%20Memory-334155?style=flat-square)](#что-я-создаю)
+[![Profile Repo](https://img.shields.io/badge/GitHub-Profile%20README-111827?style=flat-square)](https://github.com/lachlanchen/lachlanchen)
 
-Я создаю **инструменты и системы**, которые помогают людям создавать, учиться и запоминать — с меньшим трением.
+Я создаю **инструменты и системы**, которые помогают людям создавать, учиться и запоминать с меньшими усилиями.
 
-Основатель и CEO **LazyingArt LLC**  
-Сооснователь и COO **LightMind Tech Ltd**
+> **The Art of Lazying**  
+> Меньше строить. Больше жить.
 
----
+## Что я создаю
+
+| Направление | Фокус |
+| --- | --- |
+| Креативные системы | Инструменты, ускоряющие путь от идеи к результату |
+| Инфраструктура обучения | Продукты для понимания, запоминания и циклов обратной связи |
+| Память и когниция | Системы, которые помогают мыслить яснее и помнить дольше |
 
 ## Быстрые ссылки
 
-- 🌐 Сайты: https://lazying.art  and https://onlydieas.art
-- 🧠 EchoMind: https://chat.lazying.art  
-- 📚 Исследовательский хаб: https://paper.lazying.art  and https://ideas.onlyideas.art
-- 🎓 Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en  
-- 💼 LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233  
+| Тип | Ссылка |
+| --- | --- |
+| 🌐 Сайты | [lazying.art](https://lazying.art) · [onlyideas.art](https://onlyideas.art) |
+| 🧠 EchoMind | [chat.lazying.art](https://chat.lazying.art) |
+| 📚 Исследовательские хабы | [paper.lazying.art](https://paper.lazying.art) · [ideas.onlyideas.art](https://ideas.onlyideas.art) |
+| 🎓 Google Scholar | [Профиль цитирований](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en) |
+| 💼 LinkedIn | [lachlan-chen-7a056a233](https://hk.linkedin.com/in/lachlan-chen-7a056a233) |
 
-Основные репозитории:
+## Основные репозитории
 
-- 🤖 LazyingArtBot (LAB): https://github.com/lachlanchen/LazyingArtBot  
-- 🧩 AutoAppDev: https://github.com/lachlanchen/AutoAppDev  
-- 📖 AutoNovelWriter: https://github.com/lachlanchen/AutoNovelWriter  
-- 🧠 AgInTi (гуманоидный AI-агент): https://github.com/lachlanchen/AgInTi  
+| Проект | Кратко |
+| --- | --- |
+| 🤖 [LazyingArtBot (LAB)](https://github.com/lachlanchen/LazyingArtBot) | Агентный инструментарий для экосистемы LazyingArt |
+| 🧩 [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Автоматизированные рабочие процессы и инструменты разработки приложений |
+| 📖 [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Система структурированного длинного текста и генерации историй |
+| 🧠 [AgInTi](https://github.com/lachlanchen/AgInTi) | Исследование и реализация гуманоидного AI-агента |
 
----
+## Об этом репозитории
 
-## Что для меня важно
-
-**Искусство ленивинга.**  
-Делай меньше. Освобождай больше жизни.
-
-- Убирать рутину вместо добавления новых слоёв продуктивности  
-- Проектировать системы автоматизации  
-- Делать обучение легче в разных языках и медиа  
-- Исследовать гуманоидных AI-агентов, которые помогают, не перегружая  
-
----
-
-## Избранные проекты
-
-| Область               | Проект                                                       | Что делает                                                    |
-| --------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- |
-| Нейроморфная визуализация | **OpenHI**<br>https://github.com/lachlanchen/OpenHI          | Самокалибруемый конвейер событийной гиперспектральной визуализации |
-| Голос + обучение      | **EchoMind**                                                 | Многоязычный голос/чат для обучения и творчества              |
-| Автоматизация публикаций | **AutoPublish / AutoPubMonitor**<br>https://github.com/lachlanchen/AutoPublish<br>https://github.com/lachlanchen/AutoPubMonitor | Конвейеры «черновик → публикация» с очередями и синхронизацией |
-| Создание видео        | **LazyEdit**<br>https://github.com/lachlanchen/LazyEdit      | Автотранскрипция, субтитры, хайлайты, упаковка                |
-| AI-ассистенты         | **LazyingArtBot**<br>https://github.com/lachlanchen/LazyingArtBot | Фреймворк персонального ассистента с локальным приоритетом    |
-| Носимые устройства    | **LightMind / IdeasGlass**<br>https://github.com/lachlanchen/IdeasGlass | Приватные системы памяти и захвата данных на базе local-first дизайна |
-
----
-
-## Что я создаю сейчас
-
-### 1. Системы автоматизации для креаторов
-
-- **AutoPubMonitor/LazyEdit/AutoPublish **  
-  Связанная цепочка инструментов, превращающая сырые идеи в опубликованный контент —  
-  transcription → subtitles → highlights → metadata → multi-platform distribution.  
-  - AutoPubMonitor: https://github.com/lachlanchen/AutoPubMonitor  
-  - LazyEdit: https://github.com/lachlanchen/LazyEdit  
-  - AutoPublish: https://github.com/lachlanchen/AutoPublication  
-
-- **AutoAppDev / AutoNovelWriter**  
-  Эксперименты со структурированной автоматизацией для каркасов приложений и длинных текстов.  
-
-  - https://github.com/lachlanchen/AutoAppDev  
-  - https://github.com/lachlanchen/AutoNovelWriter  
-
----
-
-### 2. Языковые и образовательные системы
-
-- **EchoMind** — многоязычный голос + чат для мышления и обучения  
-- **MultilingualWhisper** — определение языка на уровне сегментов для многоязычных медиа  
-  https://github.com/lachlanchen/MultilingualWhisper  
-- **WordOrigins** — этимология как живой языковой граф  
-
----
-
-### 3. Визуализация, оптика и воплощённый ИИ
-
-- **OpenHI** — нейроморфная гиперспектральная визуализация  
-- **LightMind** — privacy-first система носимой памяти  
-- **IdeasGlass** — AI-очки для цикла capture → translate → publish  
-- **AgInTi** — исследование гуманоидного AI-агента  
-  https://github.com/lachlanchen/AgInTi  
-
-Этот слой соединяет физическое сенсорное восприятие, вычисления и личное познание.
-
----
-
-## Сотрудничество
-
-Мне особенно интересны:
-
-- Event-based / lensless imaging  
-- Computational optics & neuromorphic sensing  
-- Multilingual speech + creator tooling  
-- AI systems  
-- Humanoid or embodied agents that simplify human workflows  
-
-Если проект вам откликается, откройте issue с контекстом, ограничениями и описанием того, как выглядит “done”.
-
----
-
-## Поддержка
-
-Если эти инструменты экономят вам время или ментальный ресурс:
-
-- Donate: https://chat.lazying.art/donate  
-- PayPal: https://paypal.me/RongzhouChen  
-- Stripe: https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400  
-
----
-
-## Контакты
-
-- Email: lach@lazying.art  
-- Website: https://lazying.art  
-
-Делай меньше. Живи больше.
+Этот репозиторий — специальный **GitHub profile README** для `lachlanchen`, а языковые версии находятся в `i18n/`.
