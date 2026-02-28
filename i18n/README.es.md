@@ -1,131 +1,54 @@
-<p>
-  <b>Idiomas:</b>
-  <a href="../README.md">English</a>
-  · <a href="README.zh-Hant.md">中文（繁體）</a>
-  · <a href="README.zh-Hans.md">中文 (简体)</a>
-  · <a href="README.ja.md">日本語</a>
-  · <a href="README.ko.md">한국어</a>
-  · <a href="README.vi.md">Tiếng Việt</a>
-  · <a href="README.ar.md">العربية</a>
-  · <a href="README.fr.md">Français</a>
-  · <a href="README.es.md">Español</a>
-</p>
+**Languages:** [English](../README.md) · [العربية](README.ar.md) · [Español](README.es.md) · [Français](README.fr.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Tiếng Việt](README.vi.md) · [中文 (简体)](README.zh-Hans.md) · [中文（繁體）](README.zh-Hant.md)
 
-# El arte de Lazying — crear más con menos trabajo
+[![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-Hola, soy <b>Lachlan</b>.
+# Lachlan Chen · he/him
 
-Construyo herramientas, comunidades y una filosofía práctica para <b>reducir el trabajo innecesario</b> y vivir con más sentido.  
-<b>Estrella guía:</b> disminuir lo superfluo para no quedar atrapados por el trabajo.
+[![Website](https://img.shields.io/badge/Website-lazying.art-0f766e?style=for-the-badge)](https://lazying.art)
+[![OnlyDieas](https://img.shields.io/badge/Website-onlydieas.art-1f7a8c?style=for-the-badge)](https://onlydieas.art)
+[![EchoMind](https://img.shields.io/badge/EchoMind-Live-0891b2?style=for-the-badge)](https://chat.lazying.art)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
 
-> <b>Only Ideas.</b> Construye lo mínimo que desbloquea lo máximo.
+Construyo **herramientas y sistemas** que ayudan a las personas a crear, aprender y recordar, con menos fricción.
 
----
+Creator & CEO de **LazyingArt LLC**  
+Cofounder & COO en **LightMind Tech Ltd**
 
-## Por qué existe
+> The Art of Lazying  
+> Construir menos. Desbloquear más vida.
 
-- La mayoría de la “productividad” añade tareas. <b>Lazying</b> resta: automatiza, simplifica y protege la atención.
-- Las herramientas deben <b>quitar fricción</b>, no añadirla.
-- <b>Local‑first, privacy‑first</b> por defecto.
+## Sobre mí
 
----
+Este es mi centro de perfil en GitHub.
+Conecta a quienes lo visitan con productos activos, investigación y trabajo open source principal.
 
-## Proyectos principales (en vivo y en curso)
+## Enlaces rápidos
 
-- <b>EchoMind</b> — voz y chat multilingües para aprender y crear.  
-  <a href="https://chat.lazying.art">chat.lazying.art</a> <a href="https://chat.lazying.art"><img src="../figs/go_button.svg" alt="Ir" height="18" style="vertical-align: middle;"/></a> · [docs](../projects/EchoMind.md)
+| Área | Enlace |
+|---|---|
+| 🌐 Sitio web | [lazying.art](https://lazying.art) |
+| 🌐 Sitio web | [onlydieas.art](https://onlydieas.art) |
+| 🧠 EchoMind | [chat.lazying.art](https://chat.lazying.art) |
+| 📚 Centro de investigación | [paper.lazying.art](https://paper.lazying.art) |
+| 💡 Centro de ideas | [ideas.onlyideas.art](https://ideas.onlyideas.art) |
+| 🎓 Google Scholar | [Perfil de Scholar](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en) |
+| 💼 LinkedIn | [lachlan-chen-7a056a233](https://hk.linkedin.com/in/lachlan-chen-7a056a233) |
 
-- <b>MultilingualWhisper</b> — Whisper mejorado con detección por segmentos.  
-  [docs](../projects/MultilingualWhisper.md)
+## Repositorios principales
 
-- <b>LazyEdit</b> — edición de video con IA “un clic”: transcripción, subtítulos, highlights, tarjetas de palabras, metadatos, portadas.  
-  [docs](../projects/LazyEdit.md)
+| Proyecto | Enfoque |
+|---|---|
+| 🤖 [LazyingArtBot (LAB)](https://github.com/lachlanchen/LazyingArtBot) | Asistente creativo y herramientas de flujo de trabajo |
+| 🧩 [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Flujos de trabajo automatizados para desarrollo de aplicaciones |
+| 📖 [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Pipeline de escritura extensa asistida por IA |
+| 🧠 [AgInTi](https://github.com/lachlanchen/AgInTi) | Investigación e implementación de agentes de IA humanoides |
 
-- <b>VideoCaptioner</b>  
-  · <b>ViT‑GPT2</b> — frames clave + subtítulos; CLI + Python.  
-  · <b>CLIP+GPT</b> — embeddings visuales CLIP + decodificador estilo GPT.  
-  [docs](../projects/VideoCaptionerWithVit.md) · [docs](../projects/VideoCaptionerWithClip.md)
+## Intereses
 
-- <b>AutoPublication</b> — pipeline de redacción a publicación (+ <b>AutoPubMonitor</b> para colas/cache/multi‑plataforma).  
-  [docs](../projects/AutoPublication.md) · ([monitor](../projects/AutoPubMonitor.md))
+`The Art of Lazying`  
+Construir menos. Desbloquear más vida.
 
-- <b>WordOrigins</b> — etimología en grafo interactivo multilingüe.  
-  [docs](../projects/WordsOrigin.md)
+## Contacto
 
-- <b>IdeasGlass</b> — gafas IA que capturan, traducen y generan highlights listos para publicar.  
-  <a href="https://github.com/lachlanchen/IdeasGlass">github.com/lachlanchen/IdeasGlass</a> · [docs](../projects/IdeasGlass.md)
-
-- <b>LazyEarn</b> — automatizaciones que convierten pequeñas contribuciones en ingresos.  
-  <a href="https://github.com/lachlanchen/LazyEarn">github.com/lachlanchen/LazyEarn</a>
-
-- <b>IdeasRobot</b> — un agente que convierte ideas en borradores, tareas y publicaciones programadas.  
-  <a href="https://github.com/lachlanchen/IdeasRobot">github.com/lachlanchen/IdeasRobot</a>
-
----
-
-## Física · Óptica · Lazy Learn
-
-- <b>LazyLearn (Física y Química)</b> — notas concisas, ejemplos ejecutables y rutas de estudio “lazy learn”.  
-  <a href="https://github.com/lachlanchen/LazyLearn">github.com/lachlanchen/LazyLearn</a> · incluye las lecturas de Susskind “The Theoretical Minimum” y notebooks de trabajo.  
-  Enlaces: <a href="https://github.com/lachlanchen/leonardsusskind">leonardsusskind</a> · <a href="https://github.com/lachlanchen/the_theoretical_minimum">the_theoretical_minimum</a>
-
----
-
-## LightMind
-
-<b>Co‑fundador y COO</b> — wearable de memoria con IA y privacidad por defecto.  
-<b>Cifrado óptico</b> + IA multimodal → grafo de memoria personal consultable.
-
-Sitio: https://lightmind.art · [docs](../projects/LightMind.md)
-
----
-
-## Qué posibilita tu apoyo
-
-- <b>Mantener herramientas abiertas</b>: hosting, inferencia, datos, comunidad.  
-- <b>Entregar más rápido</b>: tiempo dedicado en EchoMind, LazyEdit, MultilingualWhisper.  
-- <b>Prototipos wearables</b>: óptica/sensores/edge para IdeasGlass + LightMind.  
-- <b>Acceso para todos</b>: despliegues subvencionados.
-
-### Donar
-
-<div align="center">
-<table style="margin:0 auto; text-align:center; border-collapse:collapse;">
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate">https://chat.lazying.art/donate</a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://chat.lazying.art/donate"><img src="../figs/donate_button.svg" alt="Donar" height="44"></a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://paypal.me/RongzhouChen">
-        <img src="https://img.shields.io/badge/PayPal-Donate-003087?logo=paypal&logoColor=white" alt="Donar con PayPal">
-      </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;">
-      <a href="https://buy.stripe.com/aFadR8gIaflgfQV6T4fw400">
-        <img src="https://img.shields.io/badge/Stripe-Donate-635bff?logo=stripe&logoColor=white" alt="Donar con Stripe">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>WeChat</strong></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><strong>Alipay</strong></td>
-  </tr>
-  <tr>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="WeChat QR" src="../figs/donate_wechat.png" width="240"/></td>
-    <td style="text-align:center; vertical-align:middle; padding:6px 12px;"><img alt="Alipay QR" src="../figs/donate_alipay.png" width="240"/></td>
-  </tr>
-</table>
-</div>
-
----
-
-## Investigación / Contacto
-
-- Áreas: imagen sin lentes/basada en eventos, IA para herramientas creativas, voz multilingüe + subtitulado, pipelines automáticos.  
-- Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en  
-- Email: lach@lazying.art · Web: https://lazying.art · LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
+Abre un issue o contacta por [LinkedIn](https://hk.linkedin.com/in/lachlan-chen-7a056a233).
