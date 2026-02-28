@@ -1,0 +1,11 @@
+en|English|README.en.md
+zh-TW|Chinese Traditional|README.zh-TW.md
+zh-CN|Chinese Simplified|README.zh-CN.md
+ja|Japanese|README.ja.md
+ko|Korean|README.ko.md
+vi|Vietnamese|README.vi.md
+ar|Arabic|README.ar.md
+fr|French|README.fr.md
+es|Spanish|README.es.md
+de|Deutsch|README.de.md
+ru|Russian|README.ru.md
