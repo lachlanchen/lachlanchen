@@ -9,13 +9,18 @@ I build tools and systems that help people create, learn, and remember with less
 Creator & CEO of **LazyingArt LLC**  
 Cofounder & COO at **LightMind Tech Ltd**
 
+| [![LazyingArt](https://img.shields.io/badge/LazyingArt-Website-0f766e?style=for-the-badge)](https://lazying.art) | [![OnlyIdeas](https://img.shields.io/badge/OnlyIdeas-Website-2563eb?style=for-the-badge)](https://onlyideas.art) | [![EchoMind](https://img.shields.io/badge/EchoMind-Chat-0ea5e9?style=for-the-badge)](https://chat.lazying.art) |
+| --- | --- | --- |
+
 ## Quick Links
 
-- Website: https://lazying.art and https://onlyideas.art
-- EchoMind: https://chat.lazying.art
-- Research hub: https://paper.lazying.art and https://ideas.onlyideas.art
-- Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
-- LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
+[![LazyingArt](https://img.shields.io/badge/Website-lazying.art-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lazying.art)
+[![OnlyIdeas](https://img.shields.io/badge/Website-onlyideas.art-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlyideas.art)
+[![EchoMind](https://img.shields.io/badge/EchoMind-chat.lazying.art-0b7285?style=for-the-badge&logo=openai&logoColor=white)](https://chat.lazying.art)
+[![PaperAgent](https://img.shields.io/badge/Research-paper.lazying.art-334155?style=for-the-badge&logo=readthedocs&logoColor=white)](https://paper.lazying.art)
+[![IDEAS Notebook](https://img.shields.io/badge/Notebook-ideas.onlyideas.art-374151?style=for-the-badge&logo=bookstack&logoColor=white)](https://ideas.onlyideas.art)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-1d4ed8?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lachlan%20Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
 
 ## Focus
 
@@ -32,6 +37,8 @@ Cofounder & COO at **LightMind Tech Ltd**
 | [LazyEdit](https://github.com/lachlanchen/LazyEdit) | AI-assisted transcription, subtitles, and video packaging |
 | [LazyingArtBot](https://github.com/lachlanchen/LazyingArtBot) | Local-first personal AI assistant framework |
 | [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Automation tooling for app development workflows |
+| [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Structured long-form writing automation |
+| [AgInTi](https://github.com/lachlanchen/AgInTi) | Humanoid AI agent exploration |
 
 ## Support
 
