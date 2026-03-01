@@ -2,7 +2,7 @@
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# Lachlan Chen · he/him
+# Lachlan Chen
 
 I build tools and systems that help people create, learn, and remember with less friction.
 

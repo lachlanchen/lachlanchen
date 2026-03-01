@@ -2,7 +2,7 @@
 
 [![LazyingArt banner](https://github.com/lachlanchen/lachlanchen/raw/main/figs/banner.png)](https://github.com/lachlanchen/lachlanchen/blob/main/figs/banner.png)
 
-# Lachlan Chen · he/him
+# Lachlan Chen
 
 저는 사람들이 더 적은 마찰로 만들고, 배우고, 기억할 수 있도록 돕는 도구와 시스템을 만듭니다.
 
