@@ -9,10 +9,6 @@ I build tools and systems that help people create, learn, and remember with less
 Creator & CEO of **LazyingArt LLC**  
 Cofounder & COO at **LightMind Tech Ltd**
 
-| [![LazyingArt](https://img.shields.io/badge/LazyingArt-Website-0f766e?style=for-the-badge)](https://lazying.art) | [![OnlyIdeas](https://img.shields.io/badge/OnlyIdeas-Website-2563eb?style=for-the-badge)](https://onlyideas.art) | [![EchoMind](https://img.shields.io/badge/EchoMind-Chat-0ea5e9?style=for-the-badge)](https://chat.lazying.art) |
-| --- | --- | --- |
-
-## Quick Links
 
 [![LazyingArt](https://img.shields.io/badge/Website-lazying.art-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lazying.art)
 [![OnlyIdeas](https://img.shields.io/badge/Website-onlyideas.art-1f2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://onlyideas.art)
@@ -50,7 +46,6 @@ Cofounder & COO at **LightMind Tech Ltd**
 
 ## Contact
 
-- 📧 Email: [lach@lazying.art](mailto:lach@lazying.art)
 
 [![GitHub](https://img.shields.io/badge/GitHub-lachlanchen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachlanchen)
 [![Email](https://img.shields.io/badge/Email-lach@lazying.art-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lach@lazying.art)

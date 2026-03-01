@@ -9,7 +9,6 @@ Construyo herramientas y sistemas que ayudan a crear, aprender y recordar con me
 **LazyingArt LLC** Creator & CEO  
 **LightMind Tech Ltd** Cofounder & COO
 
-## Quick Links
 
 - Website: https://lazying.art and https://onlyideas.art
 - EchoMind: https://chat.lazying.art
@@ -42,7 +41,6 @@ Construyo herramientas y sistemas que ayudan a crear, aprender y recordar con me
 
 ## Contact
 
-- 📧 Email: [lach@lazying.art](mailto:lach@lazying.art)
 
 [![GitHub](https://img.shields.io/badge/GitHub-lachlanchen-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lachlanchen)
 [![Email](https://img.shields.io/badge/Email-lach@lazying.art-0ea5e9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lach@lazying.art)
