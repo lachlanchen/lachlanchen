@@ -22,6 +22,8 @@ Cofounder & COO at **LightMind Tech Ltd**
 [![Google Scholar](https://img.shields.io/badge/Scholar-Profile-1d4ed8?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lachlan%20Chen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://hk.linkedin.com/in/lachlan-chen-7a056a233)
 
+- 🪙 [**Add LazyingArtCoin (LAC) to MetaMask**](https://coin.lazying.art/)
+
 ## Focus
 
 - The Art of Lazying: build less, unlock more life

@@ -16,6 +16,7 @@
 - Research hub: https://paper.lazying.art and https://ideas.onlyideas.art
 - Google Scholar: https://scholar.google.com/citations?user=Kdqr_AcAAAAJ&hl=en
 - LinkedIn: https://hk.linkedin.com/in/lachlan-chen-7a056a233
+- 🪙 [**Add LazyingArtCoin (LAC) to MetaMask**](https://coin.lazying.art/)
 
 ## Focus
 
