@@ -4,6 +4,8 @@
 
 # Lachlan Chen
 
+*Quad tango muto*
+
 I build tools and systems that help people create, learn, and remember with less friction.
 
 Creator & CEO of **LazyingArt LLC**  
