@@ -6,7 +6,7 @@
 
 *Quad tango muto*
 
-I build tools and systems that help people create, learn, and remember with less friction.
+I build local-first tools that turn difficult books, research, and media into things people can inspect, learn from, and reuse.
 
 Creator & CEO of **LazyingArt LLC**  
 Cofounder & COO at **LightMind Tech Ltd**
@@ -22,6 +22,16 @@ Cofounder & COO at **LightMind Tech Ltd**
 
 - 🪙 [**Add LazyingArtCoin (LAC) to MetaMask**](https://coin.lazying.art/)
 
+## Work with LazyingArt
+
+Three fixed-scope **USD 250** sprints are open. Each page shows the public proof and exact boundary before a free fit check; no source upload or payment is needed before we agree on scope.
+
+| Bring | Receive | Start here |
+| --- | --- | --- |
+| A private book, dictionary, or document collection | A data, privacy, citation, and provenance map plus a small browser proof on your existing machine | [Collection-fit sprint](https://lazying.art/lkt/?utm_source=github&utm_medium=profile&utm_campaign=local_knowledge_terminal_pilot&utm_content=service_chooser) |
+| One LaTeX manuscript | A clean build, issue ledger, and reproducible baseline-to-revision redline | [Manuscript build & redline](https://lazying.art/manuscript-sprint/?utm_source=github&utm_medium=profile&utm_campaign=manuscript_sprint_pilot&utm_content=service_chooser) |
+| One rights-cleared English lecture | Reviewed subtitles, an editable bilingual source, a pocket study PDF, and a short preview | [Bilingual lecture pack](https://lazying.art/lecture-pack/?utm_source=github&utm_medium=profile&utm_campaign=bilingual_lecture_pack_pilot&utm_content=service_chooser) |
+
 ## Focus
 
 - The Art of Lazying: build less, unlock more life
@@ -33,11 +43,14 @@ Cofounder & COO at **LightMind Tech Ltd**
 
 | Project | Summary |
 | --- | --- |
+| [Local Knowledge Terminal](https://github.com/lachlanchen/LocalKnowledgeTerminal) | Private, cited multilingual knowledge cards with source-level provenance |
+| [PaperAgent](https://github.com/lachlanchen/PaperAgent) | Reproducible LaTeX manuscript builds, issue ledgers, and redlines |
+| [Video2Book](https://github.com/lachlanchen/Video2Book) | Timestamped lectures transformed into subtitles, notes, PDFs, EPUBs, and pocket editions |
+| [PocketPolyglot](https://github.com/lachlanchen/PocketPolyglot) / [LinguaLeaf](https://github.com/lachlanchen/LinguaLeaf) | Multilingual pocket books and a public shelf of Chinese classics and history |
+| [Leonard Susskind archive](https://github.com/lachlanchen/leonardsusskind) | Searchable transcripts, subtitles, notes, TeX, and PDFs for The Theoretical Minimum |
 | [OpenHI](https://github.com/lachlanchen/OpenHI) | Self-calibrated event-based hyperspectral imaging pipeline |
 | [LazyEdit](https://github.com/lachlanchen/LazyEdit) | AI-assisted transcription, subtitles, and video packaging |
 | [LazyingArtBot](https://github.com/lachlanchen/LazyingArtBot) | Local-first personal AI assistant framework |
-| [AutoAppDev](https://github.com/lachlanchen/AutoAppDev) | Automation tooling for app development workflows |
-| [AutoNovelWriter](https://github.com/lachlanchen/AutoNovelWriter) | Structured long-form writing automation |
 | [AgInTi](https://github.com/lachlanchen/AgInTi) | Humanoid AI agent exploration |
 
 ## Support
