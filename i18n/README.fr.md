@@ -28,6 +28,7 @@ Je construis des outils et des systèmes qui aident à créer, apprendre et mém
 
 | Project | Summary |
 | --- | --- |
+| [LazyRemote](https://remote.lazying.art/) | Accès privé aux ordinateurs, à SSH et à noVNC via le cœur open source [LazyTunnel](https://github.com/lachlanchen/LazyTunnel), avec un [pont UU pour Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |
 | [OpenHI](https://github.com/lachlanchen/OpenHI) | Self-calibrated event-based hyperspectral imaging pipeline |
 | [LazyEdit](https://github.com/lachlanchen/LazyEdit) | AI-assisted transcription, subtitles, and video packaging |
 | [LazyingArtBot](https://github.com/lachlanchen/LazyingArtBot) | Local-first personal AI assistant framework |

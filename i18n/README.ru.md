@@ -28,6 +28,7 @@
 
 | Project | Summary |
 | --- | --- |
+| [LazyRemote](https://remote.lazying.art/) | Приватный доступ к компьютерам, SSH и noVNC на основе открытого ядра [LazyTunnel](https://github.com/lachlanchen/LazyTunnel), а также [мост UU для Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |
 | [OpenHI](https://github.com/lachlanchen/OpenHI) | Self-calibrated event-based hyperspectral imaging pipeline |
 | [LazyEdit](https://github.com/lachlanchen/LazyEdit) | AI-assisted transcription, subtitles, and video packaging |
 | [LazyingArtBot](https://github.com/lachlanchen/LazyingArtBot) | Local-first personal AI assistant framework |

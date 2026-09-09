@@ -43,6 +43,7 @@ Three fixed-scope **USD 250** sprints are open. Each page shows the public proof
 
 | Project | Summary |
 | --- | --- |
+| [LazyRemote](https://remote.lazying.art/) | Private access to computers, SSH, and noVNC through the open-source [LazyTunnel](https://github.com/lachlanchen/LazyTunnel) core, with a [UU-on-Ubuntu bridge](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |
 | [Local Knowledge Terminal](https://github.com/lachlanchen/LocalKnowledgeTerminal) | Private, cited multilingual knowledge cards with source-level provenance |
 | [PaperAgent](https://github.com/lachlanchen/PaperAgent) | Reproducible LaTeX manuscript builds, issue ledgers, and redlines |
 | [Video2Book](https://github.com/lachlanchen/Video2Book) | Timestamped lectures transformed into subtitles, notes, PDFs, EPUBs, and pocket editions |

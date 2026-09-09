@@ -28,6 +28,7 @@ Tôi xây dựng các công cụ và hệ thống giúp mọi người sáng t�
 
 | Project | Summary |
 | --- | --- |
+| [LazyRemote](https://remote.lazying.art/) | Truy cập riêng tư vào máy tính, SSH và noVNC qua lõi nguồn mở [LazyTunnel](https://github.com/lachlanchen/LazyTunnel), kèm [cầu nối UU cho Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |
 | [OpenHI](https://github.com/lachlanchen/OpenHI) | Self-calibrated event-based hyperspectral imaging pipeline |
 | [LazyEdit](https://github.com/lachlanchen/LazyEdit) | AI-assisted transcription, subtitles, and video packaging |
 | [LazyingArtBot](https://github.com/lachlanchen/LazyingArtBot) | Local-first personal AI assistant framework |
