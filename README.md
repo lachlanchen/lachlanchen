@@ -24,11 +24,13 @@ Cofounder & COO at **LightMind Tech Ltd**
 
 ## Work with LazyingArt
 
-Three fixed-scope **USD 250** sprints are open. Each page shows the public proof and exact boundary before a free fit check; no source upload or payment is needed before we agree on scope.
+Five fixed-scope software and content sprints are open at **USD 250 or USD 500**. Each page shows the public proof and exact boundary before a free fit check; no source upload or payment is needed before we agree on scope. Hardware is quoted separately.
 
 | Bring | Receive | Start here |
 | --- | --- | --- |
+| One named OpenHI stage, one existing workstation, and one rights-cleared dataset or public sample | A pinned environment, commands, outputs and logs, failure ledger, and go/no-go report | [OpenHI reproducibility sprint · USD 500](https://lazying.art/openhi-reproducibility/?utm_source=github&utm_medium=profile&utm_campaign=openhi_reproducibility&utm_content=service_chooser) |
 | A private book, dictionary, or document collection | A data, privacy, citation, and provenance map plus a small browser proof on your existing machine | [Collection-fit sprint](https://lazying.art/lkt/?utm_source=github&utm_medium=profile&utm_campaign=local_knowledge_terminal_pilot&utm_content=service_chooser) |
+| One reachable relay and up to three existing computers | A topology and exposure map, key-role review, and recovery and acceptance checks | [LazyRemote network-fit review](https://remote.lazying.art/?utm_source=github&utm_medium=profile&utm_campaign=uu_remote_bridge&utm_content=service_chooser#review) |
 | One LaTeX manuscript | A clean build, issue ledger, and reproducible baseline-to-revision redline | [Manuscript build & redline](https://lazying.art/manuscript-sprint/?utm_source=github&utm_medium=profile&utm_campaign=manuscript_sprint_pilot&utm_content=service_chooser) |
 | One rights-cleared English lecture | Reviewed subtitles, an editable bilingual source, a pocket study PDF, and a short preview | [Bilingual lecture pack](https://lazying.art/lecture-pack/?utm_source=github&utm_medium=profile&utm_campaign=bilingual_lecture_pack_pilot&utm_content=service_chooser) |
 
