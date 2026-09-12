@@ -24,10 +24,11 @@ Cofounder & COO at **LightMind Tech Ltd**
 
 ## Work with LazyingArt
 
-Five fixed-scope software and content sprints are open at **USD 250 or USD 500**. Each page shows the public proof and exact boundary before a free fit check; no source upload or payment is needed before we agree on scope. Hardware is quoted separately.
+Six fixed-scope software and content sprints are open at **USD 250 or USD 500**. Each page shows the public proof and exact boundary before a free fit check; no source upload or payment is needed before we agree on scope. Hardware is quoted separately.
 
 | Bring | Receive | Start here |
 | --- | --- | --- |
+| One MCP server at one pinned repository revision, with up to eight tools and resources | An authority map, a sanitized ten-check protocol packet, and a narrow go/no-go report with one limited recheck | [MCP server pre-deployment review · USD 500](https://lazying.art/mcp-boundary-review/?utm_source=github&utm_medium=profile&utm_campaign=mcp_boundary_review&utm_content=service_chooser) |
 | One named OpenHI stage, one existing workstation, and one rights-cleared dataset or public sample | A pinned environment, commands, outputs and logs, failure ledger, and go/no-go report | [OpenHI reproducibility sprint · USD 500](https://lazying.art/openhi-reproducibility/?utm_source=github&utm_medium=profile&utm_campaign=openhi_reproducibility&utm_content=service_chooser) |
 | A private book, dictionary, or document collection | A data, privacy, citation, and provenance map plus a small browser proof on your existing machine | [Collection-fit sprint](https://lazying.art/lkt/?utm_source=github&utm_medium=profile&utm_campaign=local_knowledge_terminal_pilot&utm_content=service_chooser) |
 | One reachable relay and up to three existing computers | A topology and exposure map, key-role review, and recovery and acceptance checks | [LazyRemote network-fit review](https://remote.lazying.art/?utm_source=github&utm_medium=profile&utm_campaign=uu_remote_bridge&utm_content=service_chooser#review) |
