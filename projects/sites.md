@@ -11,6 +11,7 @@ Short practice sessions, readable books, and source-linked study material.
 | Project / website | What it offers | Public source |
 | --- | --- | --- |
 | [L & N speech practice](https://l-and-n.lazying.art/) | **Free web app.** Practice the L/N contrast in English, Mandarin, and Cantonese: listen to word pairs, record a word, and inspect the feedback. | [L-and-N](https://github.com/lachlanchen/L-and-N) |
+| [EchoMind introduction](https://lazying.art/#product) · [Open app](https://chat.lazying.art/) | **Messaging app.** Multilingual messaging and AI-assisted language tools; personal conversations require sign-in. | — |
 | [LinguaLeaf](https://lachlan.lazying.art/LinguaLeaf/website/) | **Multilingual books.** Read Chinese classics and history with multilingual annotations. Browse the available editions and their source notes. | [LinguaLeaf](https://github.com/lachlanchen/LinguaLeaf) |
 | [LazyLearn](https://learn.lazying.art/) | **Learning library.** A growing collection of books, notes, and learning paths for unrushed study. | [LazyLearn](https://github.com/lachlanchen/LazyLearn) |
 | [Leonard Susskind study archive](https://blog.lazying.art/html/the-theoretical-minimum/3167/leonard-susskind-lecture-notes-transcripts-and-pdfs-in-one-place.html) | **Community study resource.** Find transcripts, subtitles, notes, TeX, and PDFs to revisit The Theoretical Minimum lectures. | [leonardsusskind](https://github.com/lachlanchen/leonardsusskind) |
