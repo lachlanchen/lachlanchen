@@ -44,6 +44,8 @@ Six fixed-scope software and content sprints are open at **USD 250 or USD 500**.
 
 ## Selected Projects
 
+Browse [apps, books and tools](https://lazying.art/products/), the [website directory](projects/sites.md), or [all public repositories](projects/repositories.md).
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | Private access to computers, SSH, and noVNC through the open-source [LazyTunnel](https://github.com/lachlanchen/LazyTunnel) core, with a [UU-on-Ubuntu bridge](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

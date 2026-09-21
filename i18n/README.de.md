@@ -26,6 +26,8 @@ Ich baue Tools und Systeme, die Menschen helfen, mit weniger Reibung zu erstelle
 
 ## Selected Projects
 
+Entdecke [Apps, Bücher und Werkzeuge](https://lazying.art/products/), das [Website-Verzeichnis](../projects/sites.md) oder [alle öffentlichen Repositories](../projects/repositories.md).
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | Privater Zugriff auf Computer, SSH und noVNC über den quelloffenen [LazyTunnel](https://github.com/lachlanchen/LazyTunnel)-Kern, mit einer [UU-auf-Ubuntu-Brücke](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

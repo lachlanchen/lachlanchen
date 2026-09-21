@@ -26,6 +26,8 @@
 
 ## Selected Projects
 
+تصفّح [التطبيقات والكتب والأدوات](https://lazying.art/products/)، أو [دليل المواقع](../projects/sites.md)، أو [جميع المستودعات العامة](../projects/repositories.md).
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | وصول خاص إلى الحواسيب وSSH وnoVNC عبر نواة [LazyTunnel](https://github.com/lachlanchen/LazyTunnel) مفتوحة المصدر، مع [جسر UU على Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

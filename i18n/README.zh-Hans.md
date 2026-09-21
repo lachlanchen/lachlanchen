@@ -26,6 +26,8 @@
 
 ## Selected Projects
 
+浏览[应用、书籍与工具](https://lazying.art/products/)、[网站目录](../projects/sites.md)或[全部公开仓库](../projects/repositories.md)。
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | 通过开源 [LazyTunnel](https://github.com/lachlanchen/LazyTunnel) 核心私密访问电脑、SSH 和 noVNC，并提供 [Ubuntu 上的 UU 兼容桥](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

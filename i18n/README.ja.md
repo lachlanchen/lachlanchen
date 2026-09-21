@@ -26,6 +26,8 @@
 
 ## Selected Projects
 
+[アプリ・書籍・ツール](https://lazying.art/products/)、[サイト一覧](../projects/sites.md)、[公開リポジトリ一覧](../projects/repositories.md)をご覧ください。
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | オープンソースの [LazyTunnel](https://github.com/lachlanchen/LazyTunnel) を核に、コンピューター、SSH、noVNCへ非公開で接続。[Ubuntu向けUUブリッジ](https://github.com/lachlanchen/uu-remote-ubuntu-bridge)も提供 |

@@ -26,6 +26,8 @@
 
 ## Selected Projects
 
+[앱·책·도구](https://lazying.art/products/), [웹사이트 목록](../projects/sites.md), [전체 공개 저장소](../projects/repositories.md)를 살펴보세요.
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | 오픈 소스 [LazyTunnel](https://github.com/lachlanchen/LazyTunnel)을 기반으로 컴퓨터, SSH, noVNC에 비공개로 접속하며 [Ubuntu용 UU 브리지](https://github.com/lachlanchen/uu-remote-ubuntu-bridge)도 제공 |

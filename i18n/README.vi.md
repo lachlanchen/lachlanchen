@@ -26,6 +26,8 @@ Tôi xây dựng các công cụ và hệ thống giúp mọi người sáng t�
 
 ## Selected Projects
 
+Khám phá [ứng dụng, sách và công cụ](https://lazying.art/products/), [danh mục trang web](../projects/sites.md) hoặc [tất cả kho mã công khai](../projects/repositories.md).
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | Truy cập riêng tư vào máy tính, SSH và noVNC qua lõi nguồn mở [LazyTunnel](https://github.com/lachlanchen/LazyTunnel), kèm [cầu nối UU cho Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

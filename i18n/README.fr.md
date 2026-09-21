@@ -26,6 +26,8 @@ Je construis des outils et des systèmes qui aident à créer, apprendre et mém
 
 ## Selected Projects
 
+Découvrez les [applications, livres et outils](https://lazying.art/products/), l’[annuaire des sites](../projects/sites.md) ou [tous les dépôts publics](../projects/repositories.md).
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | Accès privé aux ordinateurs, à SSH et à noVNC via le cœur open source [LazyTunnel](https://github.com/lachlanchen/LazyTunnel), avec un [pont UU pour Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

@@ -26,6 +26,8 @@
 
 ## Selected Projects
 
+瀏覽[應用程式、書籍與工具](https://lazying.art/products/)、[網站目錄](../projects/sites.md)或[全部公開儲存庫](../projects/repositories.md)。
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | 透過開源 [LazyTunnel](https://github.com/lachlanchen/LazyTunnel) 核心私密存取電腦、SSH 與 noVNC，並提供 [Ubuntu 上的 UU 相容橋](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

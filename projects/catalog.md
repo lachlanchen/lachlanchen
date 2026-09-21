@@ -2,38 +2,9 @@
 
 This catalog lists the public sites and the main repositories across the LazyingArt ecosystem.
 
-## Websites (GitHub Pages / Apps)
+## Websites and complete public directory
 
-- lazying.art — LazyingArt (studio/landing)
-  - Site: https://lazying.art
-  - Repo: https://github.com/lachlanchen/LazyingArtLanding
-- onlyideas.art — OnlyIdeas (community/governance)
-  - Site: https://onlyideas.art
-  - Repo: https://github.com/lachlanchen/OnlyIdeasLanding
-- chat.lazying.art — EchoMind (multilingual chat/voice)
-  - Site: https://chat.lazying.art
-  - Repo: (internal)
-- earn.lazying.art — LazyEarn (earn from scratch)
-  - Site: https://earn.lazying.art
-  - Repo: https://github.com/lachlanchen/LazyEarn
-- learn.lazying.art — LazyLearn (physics & chemistry)
-  - Site: https://learn.lazying.art
-  - Repo: https://github.com/lachlanchen/LazyLearn
-- robot.lazying.art — IdeasRobot (sensor hub + PWA)
-  - Site: https://robot.lazying.art
-  - Repo: https://github.com/lachlanchen/IdeasRobot
-- ideas.lazying.art — IdeasGlass (AI wearable)
-  - Site: https://ideas.lazying.art
-  - Repo: https://github.com/lachlanchen/IdeasGlass
-- ideas.onlyideas.art — IDEAS (research notebook)
-  - Site: https://ideas.onlyideas.art
-  - Repo: https://github.com/lachlanchen/IDEAS
-- coin.lazying.art — LazyingArtCoin (ecosystem token)
-  - Site: https://coin.lazying.art
-  - Repo: https://github.com/lachlanchen/LazyingArtCoin
-- lightmind.art — LightMind (company site)
-  - Site: https://lightmind.art
-  - Repo: https://github.com/lachlanchen/LightMindLanding
+Start with the maintained [website and repository map](sites.md), the [product directory](https://lazying.art/products/), or the [complete public repository list](repositories.md). The sections below are older topic notes, not a deployment inventory.
 
 ## Flagship Apps & Tooling
 
@@ -51,12 +22,12 @@ This catalog lists the public sites and the main repositories across the Lazying
   - Pipeline: https://github.com/lachlanchen/AutoPublication
   - Monitor: https://github.com/lachlanchen/AutoPubMonitor
 - WordOrigins — Interactive etymology explorer
-  - Repo: https://github.com/lachlanchen/WordsOrigin
+  - Repo: https://github.com/lachlanchen/WordOrigins
 
 ## Wearables & Devices
 
 - IdeasGlass — AI wearable glasses (capture/translate/highlights)
-  - Site: https://ideas.lazying.art
+  - Site: https://glass.lazying.art
   - Repo: https://github.com/lachlanchen/IdeasGlass
 - IdeasRobot — Tornado + PWA sensor hub for ideas capture
   - Site: https://robot.lazying.art

@@ -26,6 +26,8 @@
 
 ## Selected Projects
 
+Посмотрите [приложения, книги и инструменты](https://lazying.art/products/), [каталог сайтов](../projects/sites.md) или [все открытые репозитории](../projects/repositories.md).
+
 | Project | Summary |
 | --- | --- |
 | [LazyRemote](https://remote.lazying.art/) | Приватный доступ к компьютерам, SSH и noVNC на основе открытого ядра [LazyTunnel](https://github.com/lachlanchen/LazyTunnel), а также [мост UU для Ubuntu](https://github.com/lachlanchen/uu-remote-ubuntu-bridge) |

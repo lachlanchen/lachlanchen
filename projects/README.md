@@ -4,7 +4,9 @@
 
 # Project Notes Index
 
-Comprehensive notes for symlinked projects in this repo:
+Start with the maintained [website and repository directory](sites.md), [all public repositories](repositories.md), and the [LazyingArt product page](https://lazying.art/products/).
+
+Historical notes for individual projects:
 
 - AiSecretary — projects/AiSecretary.md
 - AI‑Wearable — projects/AI-Wearable.md
