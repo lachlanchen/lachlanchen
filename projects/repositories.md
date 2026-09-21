@@ -130,4 +130,3 @@ Use the [website directory](sites.md) for reviewed visitor destinations. Reposit
 | WordOrigins | [GitHub](https://github.com/lachlanchen/WordOrigins) |
 | WordsCardEink | [GitHub](https://github.com/lachlanchen/WordsCardEink) |
 | Yinghan | [GitHub](https://github.com/lachlanchen/Yinghan) |
-
