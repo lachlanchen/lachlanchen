@@ -1,8 +1,10 @@
 # Public repository directory
 
-Updated: 2026-09-21. 124 public repositories from the account snapshot, including forks and archived projects, excluding LightMind-named projects. Listing source code does not imply an actively maintained product.
+Updated: 2026-09-23. 127 public repositories from the account snapshot, including forks and archived projects, excluding LightMind-named projects. Listing source code does not imply an actively maintained product.
 
 Use the [website directory](sites.md) for reviewed visitor destinations. Repository homepage fields are not reproduced automatically because they can contain stale or operator-only addresses.
+
+New since September 21: [Bunko](https://github.com/lachlanchen/Bunko), [bunko-books](https://github.com/lachlanchen/bunko-books), and [LazyOracle](https://github.com/lachlanchen/LazyOracle). Auspice is maintained inside LazyOracle.
 
 | Repository | Public URL |
 | --- | --- |
@@ -23,6 +25,8 @@ Use the [website directory](sites.md) for reviewed visitor destinations. Reposit
 | AutoPublish | [GitHub](https://github.com/lachlanchen/AutoPublish) |
 | AutoPubMonitor | [GitHub](https://github.com/lachlanchen/AutoPubMonitor) |
 | BigMe | [GitHub](https://github.com/lachlanchen/BigMe) |
+| Bunko | [GitHub](https://github.com/lachlanchen/Bunko) |
+| bunko-books | [GitHub](https://github.com/lachlanchen/bunko-books) |
 | cellist | [GitHub](https://github.com/lachlanchen/cellist) |
 | chatgpt-voice-assistant | [GitHub](https://github.com/lachlanchen/chatgpt-voice-assistant) |
 | CustomSensor | [GitHub](https://github.com/lachlanchen/CustomSensor) |
@@ -69,6 +73,7 @@ Use the [website directory](sites.md) for reviewed visitor destinations. Reposit
 | LazyLanguageLearner | [GitHub](https://github.com/lachlanchen/LazyLanguageLearner) |
 | LazyLearn | [GitHub](https://github.com/lachlanchen/LazyLearn) |
 | LazyMahjong | [GitHub](https://github.com/lachlanchen/LazyMahjong) |
+| LazyOracle | [GitHub](https://github.com/lachlanchen/LazyOracle) |
 | LazyPoker | [GitHub](https://github.com/lachlanchen/LazyPoker) |
 | LazyPromotion | [GitHub](https://github.com/lachlanchen/LazyPromotion) |
 | LazyRouter | [GitHub](https://github.com/lachlanchen/LazyRouter) |
@@ -80,10 +85,10 @@ Use the [website directory](sites.md) for reviewed visitor destinations. Reposit
 | LexiconAtlas | [GitHub](https://github.com/lachlanchen/LexiconAtlas) |
 | LifeReverseEngineering | [GitHub](https://github.com/lachlanchen/LifeReverseEngineering) |
 | LinguaLeaf | [GitHub](https://github.com/lachlanchen/LinguaLeaf) |
+| local_llm_assistant | [GitHub](https://github.com/lachlanchen/local_llm_assistant) |
 | LocalKnowledgeTerminal | [GitHub](https://github.com/lachlanchen/LocalKnowledgeTerminal) |
 | LocalLLM | [GitHub](https://github.com/lachlanchen/LocalLLM) |
 | LocalVideoGen | [GitHub](https://github.com/lachlanchen/LocalVideoGen) |
-| local_llm_assistant | [GitHub](https://github.com/lachlanchen/local_llm_assistant) |
 | mcp-remote | [GitHub](https://github.com/lachlanchen/mcp-remote) |
 | MetasurfaceInverseDeisgn | [GitHub](https://github.com/lachlanchen/MetasurfaceInverseDeisgn) |
 | MicroQuant | [GitHub](https://github.com/lachlanchen/MicroQuant) |

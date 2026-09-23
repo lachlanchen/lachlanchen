@@ -8,6 +8,15 @@ Start with the maintained [website and repository map](sites.md), the [product d
 
 ## Flagship Apps & Tooling
 
+- Bunko 文庫 — A multilingual classics reader with furigana and pinyin
+  - Reader: https://lachlan.lazying.art/Bunko/
+  - App: https://github.com/lachlanchen/Bunko · Data: https://github.com/lachlanchen/bunko-books
+- LazyOracle — Rule-based cultural exploration with optional AI narration
+  - Web app: https://oracle.lazying.art/
+  - Repo: https://github.com/lachlanchen/LazyOracle
+- Auspice 宜时 — LazyOracle's native companion, currently in testing
+  - Introduction: https://auspice.lazying.art/
+  - Source: https://github.com/lachlanchen/LazyOracle
 - EchoMind — Multilingual conversation (voice/text), context memory
   - Site: https://chat.lazying.art
   - Repo: (internal)

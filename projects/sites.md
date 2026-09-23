@@ -1,6 +1,6 @@
 # LazyingArt — public websites and repositories
 
-Updated: 2026-09-21. Browse the [product directory](https://lazying.art/products/) for apps, books, tools, and project introductions.
+Updated: 2026-09-23. Browse the [product directory](https://lazying.art/products/) for apps, books, tools, and project introductions.
 
 This is the visitor-facing directory, not a server inventory. Source links are included only for public repositories. Public app entrances may require sign-in; account screens, operator consoles, APIs, and invitation-only workspaces are not promotion destinations.
 
@@ -10,6 +10,7 @@ Short practice sessions, readable books, and source-linked study material.
 
 | Project / website | What it offers | Public source |
 | --- | --- | --- |
+| [Bunko · 文庫](https://lachlan.lazying.art/Bunko/) | **Web reader.** Read classics with furigana, pinyin, and aligned English, Chinese, and Japanese text. Save books for offline reading. | [Bunko](https://github.com/lachlanchen/Bunko) · [reader data](https://github.com/lachlanchen/bunko-books) |
 | [L & N speech practice](https://l-and-n.lazying.art/) | **Free web app.** Practice the L/N contrast in English, Mandarin, and Cantonese: listen to word pairs, record a word, and inspect the feedback. | [L-and-N](https://github.com/lachlanchen/L-and-N) |
 | [EchoMind introduction](https://lazying.art/#product) · [Open app](https://chat.lazying.art/) | **Messaging app.** Multilingual messaging and AI-assisted language tools; personal conversations require sign-in. | — |
 | [LinguaLeaf](https://lachlan.lazying.art/LinguaLeaf/website/) | **Multilingual books.** Read Chinese classics and history with multilingual annotations. Browse the available editions and their source notes. | [LinguaLeaf](https://github.com/lachlanchen/LinguaLeaf) |
@@ -53,12 +54,14 @@ Music, video, writing, and small objects made with care.
 
 ## Watch, read, and play
 
-Public game previews and a quieter way to study a position.
+Public game previews, cultural exploration, and a quieter way to reflect.
 
 | Project / website | What it offers | Public source |
 | --- | --- | --- |
 | [LazyingArt Games](https://lazying.art/games/) · [Visitor app](https://game.lazying.art/) | **Read-only visitor mode.** Watch the public Weiqi replay without signing in. Interactive learning and the wider game catalogue require an account. | [LazyGameWeb](https://github.com/lachlanchen/LazyGameWeb) |
 | [ShiGame](https://lachlan.lazying.art/ShiGame/) | **Game project.** Explore the public game project and its source. | [ShiGame](https://github.com/lachlanchen/ShiGame) |
+| [LazyOracle](https://oracle.lazying.art/) | **Free web app.** Explore tarot, the I Ching, and BaZi through reproducible rule-based calculations and optional AI narration; a space for cultural exploration and reflection. | [LazyOracle](https://github.com/lachlanchen/LazyOracle) |
+| [Auspice · 宜时](https://auspice.lazying.art/) | **Native app preview.** LazyOracle's native companion, with a traditional almanac, tarot, I Ching, and BaZi tools. Mobile builds are currently in testing. | [LazyOracle](https://github.com/lachlanchen/LazyOracle) |
 
 ## Research and prototypes
 
@@ -88,6 +91,13 @@ The studio, the person behind it, and longer-form notes.
 
 - [Medium — LazyingArt](https://medium.lazying.art/): a Medium-managed publishing destination, not a separate app backend.
 - [Medium — OnlyIdeas](https://medium.onlyideas.art/): a Medium-managed publishing destination. Page availability and canonical settings are controlled through Medium.
+
+## New projects and domain notes — September 23
+
+- [Bunko](https://github.com/lachlanchen/Bunko), [bunko-books](https://github.com/lachlanchen/bunko-books), and [LazyOracle](https://github.com/lachlanchen/LazyOracle) are the three new public repositories since September 21. Auspice is a separate app in the LazyOracle repository, not a fourth repository.
+- Bunko's working reader is the GitHub Pages path linked above. The reserved `bunko.lazying.art` address did not pass HTTPS verification, so it is not a visitor destination or sitemap entry yet.
+- [oracle-fast.lazying.art](https://oracle-fast.lazying.art/) is a working mirror of LazyOracle. It declares `https://oracle.lazying.art/` as canonical; only the main address is in the discovery sitemap.
+- The public repository list now contains 127 repositories, including forks and archived code, with the existing LightMind-named exclusion retained. This is distinct from the curated 41-entry product directory.
 
 ## Discovery policy
 
